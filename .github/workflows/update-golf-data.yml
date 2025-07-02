@@ -10,6 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Force fetch latest version
+        run: |
+          git fetch origin
+          git reset --hard origin/main
+
       - name: Checkout Repository
         uses: actions/checkout@v3
 

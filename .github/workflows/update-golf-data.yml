@@ -37,19 +37,11 @@ jobs:
       - name: Run tournament results scraper
         run: python tournament_results.py
 
-      # - name: List output files
-      #   run: |
-      #     pwd
-      #     ls -R
+      - name: Run individual tournament results scraper
+        run: python individual_tournament_results.py
 
-
-
-      # temporarily disabled for debugging:
-      # - name: Run individual tournament results scraper
-      #   run: python individual_tournament_results.py
-
-      # - name: Run individual player stats scraper for active players
-      #   run: python player_individual_stats.py
+      - name: Run individual player stats scraper for active players
+        run: python player_individual_stats.py
 
       - name: Show Git status and modified files
         working-directory: ${{ github.workspace }}

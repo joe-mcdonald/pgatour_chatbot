@@ -34,11 +34,17 @@ jobs:
       - name: Run tournament results scraper
         run: python tournament_results.py
 
-      - name: Run individual tournament results scraper
-        run: python individual_tournament_results.py
+      - name: List output files
+        run: |
+          ls -R
 
-      - name: Run individual player stats scraper for active players
-        run: python player_individual_stats.py
+
+      # temporarily disabled for debugging:
+      # - name: Run individual tournament results scraper
+      #   run: python individual_tournament_results.py
+
+      # - name: Run individual player stats scraper for active players
+      #   run: python player_individual_stats.py
 
       - name: Commit and push updates
         run: |

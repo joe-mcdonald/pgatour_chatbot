@@ -112,6 +112,5 @@ for year in range(2012, 2026):
 
         # Save to CSV
         df.to_csv(f"./individual_tournament_results/{year}/{year}_{tournament_name}.csv")
-    print("Completed processing for year:", year)
-
+    print(f"Saved results for {year}")
 

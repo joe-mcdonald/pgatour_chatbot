@@ -42,9 +42,12 @@ jobs:
 
       - name: Commit and push updates
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'actions@github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "📈 Auto-update golf data from scrapers"
+          git diff --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Update golf data [auto]"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true

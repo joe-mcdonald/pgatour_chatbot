@@ -34,10 +34,10 @@ jobs:
       - name: Run tournament results scraper
         run: python tournament_results.py
 
-      - name: List output files
-        run: |
-          pwd
-          s -R
+      # - name: List output files
+      #   run: |
+      #     pwd
+      #     ls -R
 
 
 

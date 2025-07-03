@@ -28,5 +28,6 @@ git config --global user.email "joemcd0224@gmail.com"
 
 git add .
 git commit -m "Automated update from Docker container"
-git push origin main  # Change branch name if needed
+git push git@github.com:joe-mcdonald/pgatour_chatbot.git HEAD:main
+
 echo "All scripts executed successfully and changes pushed to GitHub."

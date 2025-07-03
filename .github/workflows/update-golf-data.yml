@@ -1,10 +1,11 @@
 name: Update Golf Data
 
+# Temprorarily disabled to save $$$
 on:
-  push:
-    branches: [main]
-  schedule:
-    - cron: '0 6 * * 1'
+  # push:
+  #   branches: [main]
+  # schedule:
+  #   - cron: '0 6 * * 1'
   workflow_dispatch:
 
 permissions: # allows github actions to commit changes
@@ -33,6 +34,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install pandas requests
+      
+      - name: Run get active players script
+        run: python get_active_players.py
 
       - name: Run tournament results scraper
         run: python tournament_results.py
@@ -42,6 +46,14 @@ jobs:
 
       - name: Run individual player stats scraper for active players
         run: python player_individual_stats.py
+      
+      - name: Run enriched player details scraper
+        run: python get_players.py
+
+      # Caution - this takes 20+ minutes to run, ideally do 
+      # this locally to prevent excessive GitHub Actions billing
+      # - name: Run ChromaDB setup script
+      #   run: python chroma_setup.py
 
       - name: Show Git status and modified files
         working-directory: ${{ github.workspace }}
@@ -66,3 +78,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
+      
+

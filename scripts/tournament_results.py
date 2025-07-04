@@ -60,7 +60,7 @@ for year in range(2012, 2026):
         print(f"Error parsing data: {e}")
     
 
-    df = pd.DataFrame(tournaments)
+    df = pd.DataFrame(tournaments) 
 
     # Save to CSV
     df.to_csv(f"./tournament_results/tournament_results_{year}.csv", index=False)

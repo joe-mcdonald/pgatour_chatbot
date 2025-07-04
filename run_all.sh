@@ -36,4 +36,5 @@ git pull origin main --rebase || echo "Rebase not required."
 # git push git@github.com:joe-mcdonald/pgatour_chatbot.git HEAD:main
 git push origin main
 
+# print exit message
 echo "All scripts executed successfully and changes pushed to GitHub."

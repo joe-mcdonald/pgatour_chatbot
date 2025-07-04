@@ -27,16 +27,17 @@ git config --global user.name "joe-mcdonald"
 git config --global user.email "joemcd0224@gmail.com"
 
 git add .
-git commit -m "Pre-pull auto commit from Docker container" || echo "No changes to commit before pull."
+git commit -m "Auto commit from Docker container" || echo "No changes to commit."
 
-git pull origin main --rebase
+git pull origin main --rebase || echo "Rebase not required."
 
-
-git add .
-git commit -m "Automated update from Docker container" || echo "No changes to commit after rebase."
+# git add .
+# git commit -m "Automated update from Docker container" || echo "No changes to commit after rebase."
 # git push git@github.com:joe-mcdonald/pgatour_chatbot.git HEAD:main
 git push origin main
 
-git pull origin main
+# git pull origin main
+
+git diff --quiet || git status
 
 echo "All scripts executed successfully and changes pushed to GitHub."

@@ -17,6 +17,9 @@ echo "running player_individual_stats.py"
 echo "running get_players.py"
 # python3 scripts/get_players.py
 
+echo "running stat_leaders.py"
+# python3 scripts/stat_leaders.py
+
 echo "Done with PGA Tour update scripts."
 
 echo "Setting up ChromaDB, this may take a while..."

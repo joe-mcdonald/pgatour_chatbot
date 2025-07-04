@@ -26,10 +26,13 @@ echo "Committing and pushing to GitHub..."
 git config --global user.name "joe-mcdonald"
 git config --global user.email "joemcd0224@gmail.com"
 
-git pull origin main --rebase
+git add .
+git commit -m "Pre-pull auto commit from Docker container"
 
+git pull origin main --rebase
 git add .
 git commit -m "Automated update from Docker container"
-git push git@github.com:joe-mcdonald/pgatour_chatbot.git HEAD:main
+# git push git@github.com:joe-mcdonald/pgatour_chatbot.git HEAD:main
+git push origin main
 
 echo "All scripts executed successfully and changes pushed to GitHub."

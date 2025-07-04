@@ -37,4 +37,6 @@ git commit -m "Automated update from Docker container" || echo "No changes to co
 # git push git@github.com:joe-mcdonald/pgatour_chatbot.git HEAD:main
 git push origin main
 
+git pull origin main
+
 echo "All scripts executed successfully and changes pushed to GitHub."

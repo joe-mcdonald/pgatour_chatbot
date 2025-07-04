@@ -64,5 +64,3 @@ for year in range(2012, 2026):
 
     # Save to CSV
     df.to_csv(f"./tournament_results/tournament_results_{year}.csv", index=False)
-
-    print(f"Saved tournament results from {year} to CSV.")

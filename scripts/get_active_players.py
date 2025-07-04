@@ -46,7 +46,6 @@ response = requests.post(url, headers=headers, json=query)
 response.raise_for_status()
 
 data = response.json()
-# print(data)
 
 players = data.get("data", {}).get("playerDirectory", {})
 

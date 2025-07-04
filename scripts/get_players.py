@@ -137,7 +137,6 @@ def main():
                 "fedex_stat": details.get("rank").get("statName") if details.get("rank") else "",
             })
             time.sleep(0.1)  # Add delay to avoid overloading the API
-            print(f"Added info for {p['displayName']} ({p['id']})")
 
         except Exception as e:
             print(f"Error with {p['displayName']} ({p['id']}): {e}")

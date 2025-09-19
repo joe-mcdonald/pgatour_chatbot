@@ -100,10 +100,10 @@ Only answer based on the context above. Include rankings and values where availa
 Answer:"""
 
     res = requests.post(
-        "http://localhost:1234/v1/chat/completions",
+        "http://localhost:11434/v1/chat/completions",
         headers={"Content-Type": "application/json"},
         json={
-            "model": "mistral-nemo-instruct-2407",
+            "model": "gpt-oss:latest",
             "messages": [
                 {"role": "system", "content": "You are a helpful assistant that will answer questions based on the provided data."},
                 {"role": "user", "content": full_prompt}

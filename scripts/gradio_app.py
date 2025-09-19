@@ -14,8 +14,8 @@ def full_pipeline(user_question):
 iface = gr.Interface(
     fn = full_pipeline,
     inputs = gr.Textbox(
-        label = "Ask a question about PGA Tour players",
-        placeholder = "eg. What's Rory McIlroy's rank for driving accuracy?"
+        label = "Ask a question about PGA Tour players. Be specific! This is a work in progress so it may struggle with vague questions.",
+        placeholder = "eg. Which player has the highest sand save percentage?"
     ),
     outputs = gr.Textbox(
         label = "Answer"
@@ -24,4 +24,4 @@ iface = gr.Interface(
     description = "Ask questions about PGA Tour players' stats. Powered by ChromaDB and Mistral LLM.",
 )
 
-iface.launch()
+iface.launch(share=True)

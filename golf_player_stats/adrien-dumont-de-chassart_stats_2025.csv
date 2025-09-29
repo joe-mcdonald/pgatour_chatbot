@@ -5,7 +5,7 @@ SG: Off-the-Tee,-0.954,-,EVEN,Total SG:OTT: -3.816,Measured Rounds: 4
 SG: Approach the Green,-1.054,-,EVEN,Total SG:APP: -4.215,Measured Rounds: 4
 SG: Around-the-Green,-0.343,-,EVEN,Total SG:ARG: -1.372,Measured Rounds: 4
 SG: Putting,0.161,-,EVEN,Total SG:Putting: 0.642,Measured Rounds: 4
-Longest Drives,345,301,EVEN,Tournament: Valspar,Round: 1
+Longest Drives,345,431,EVEN,Tournament: Valspar,Round: 1
 Driving Distance,300.9,-,EVEN,"Total Distance: 4,814",Total Drives: 16
 Driving Distance - All Drives,284.3,-,EVEN,"Total Distance: 15,355",# of Drives: 54
 Driving Accuracy Percentage,50.00%,-,EVEN,Fairways Hit: 55,Possible Fairways: 110
@@ -72,7 +72,7 @@ Putts per Round - Round 2,29.00,-,EVEN,Total Putts: 87,Total Rounds: 3
 Putts per Round - Round 3,32.00,-,EVEN,Total Putts: 32,Total Rounds: 1
 Putts per Round - Round 4,25.00,-,EVEN,Total Putts: 25,Total Rounds: 1
 One-Putt Percentage,43.75%,-,EVEN,# of 1 putts: 63,# of holes: 144
-Longest Putts,45' 4,147,EVEN,Year/Tourn#: Valspar,Round: 1
+Longest Putts,45' 4,188,EVEN,Year/Tourn#: Valspar,Round: 1
 3-Putt Avoidance,2.08%,-,EVEN,Total 3 Putts: 3,Total Holes (overall): 144
 Putting from - > 25',5.88%,-,EVEN,Attempts: 17,Putts made: 1
 Putting from - 20-25',16.67%,-,EVEN,Attempts: 6,Putts made: 1
@@ -92,7 +92,7 @@ Average Distance of Putts made,71' 4,-,EVEN,"Total Dist. (inches): 3,424",Total 
 Approach Putt Performance,2' 3,-,EVEN,: ,Attempts: 40
 Scoring Average (Adjusted),72.022,-,EVEN,Total Strokes: 568,Total Adjustment: 8.178
 Scoring Average (Actual),71.00,-,EVEN,Total Strokes: 568,Total Rounds: 8
-Lowest Round,67,222,EVEN,Tourn/Course: Puerto Rico/Gra,Round: 4
+Lowest Round,67,250,EVEN,Tourn/Course: Puerto Rico/Gra,Round: 4
 Birdie Average,3.38,-,EVEN,# of Birdies: 27,Total Rounds: 8
 Total Birdies,27,-,EVEN,: ,: 
 Eagles (Holes per),-,-,EVEN,,
@@ -118,16 +118,17 @@ Back 9 Scoring Average,35.63,-,EVEN,Total Strokes: 285,Total Holes: 8
 Early Scoring Average,69.25,-,EVEN,Total Strokes: 277,Total Early Rounds: 4
 Late Scoring Average,72.75,-,EVEN,Total Strokes: 291,Total Late Rounds: 4
 Consecutive Cuts,-,-,EVEN,,
-Current Streak without a 3-Putt,8,314,EVEN,: ,: 
-Consecutive Fairways Hit,6,315,EVEN,Current Streak: 0,: 
-Consecutive GIR,13,157,EVEN,Current Streak: 0,Round: 4
-Consecutive Sand Saves,4,196,EVEN,Current Streak: 0,Round: 2
-Best YTD 1-Putt or Better Streak,7,91,EVEN,: ,: 
-Best YTD Streak w/o a 3-Putt,75,208,EVEN,Current Streak: 8,: 
-YTD Par or Better Streak,5,192,EVEN,: ,: 
-Consecutive Par 3 Birdies,1,223,EVEN,: ,: 
-Consecutive Holes Below Par,2,253,EVEN,: ,: 
-Consecutive Birdies Streak,2,253,EVEN,: ,: 
+Current Streak without a 3-Putt,8,426,EVEN,: ,: 
+Consecutive Fairways Hit,6,350,EVEN,Current Streak: 0,: 
+Consecutive GIR,13,190,EVEN,Current Streak: 0,Round: 4
+Consecutive Sand Saves,4,216,EVEN,Current Streak: 0,Round: 2
+Best YTD 1-Putt or Better Streak,7,105,EVEN,: ,: 
+Best YTD Streak w/o a 3-Putt,75,222,EVEN,Current Streak: 8,: 
+YTD Par or Better Streak,5,210,EVEN,: ,: 
+Consecutive Par 3 Birdies,1,253,EVEN,: ,: 
+Consecutive Holes Below Par,2,285,EVEN,: ,: 
+Consecutive Birdies Streak,2,284,EVEN,: ,: 
 Consecutive Birdies/Eagles streak,-,-,EVEN,,
-Official Money,"$29,450",211,EVEN,: ,YTD Victories: 
-Comcast Business TOUR TOP 10,18,206,EVEN,# of Wins: 0,# of Top 10's: 0
+Official Money,"$29,450",218,EVEN,: ,YTD Victories: 
+FedExCup Fall Points,18,212,EVEN,: ,: 
+Comcast Business TOUR TOP 10,18,211,EVEN,# of Wins: 0,# of Top 10's: 0

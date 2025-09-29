@@ -30,22 +30,22 @@
 28,David Hearn,T21,71,67,70,68,276,-12,"$26,700.00"
 29,Boo Weekley,T21,67,73,66,70,276,-12,"$26,700.00"
 30,Brendon de Jonge,T31,70,66,68,73,277,-11,"$16,650.00"
-31,Shane Bertsch,T31,68,71,69,69,277,-11,"$16,650.00"
-32,Stuart Appleby,T31,69,71,69,68,277,-11,"$16,650.00"
-33,Ken Duke,T31,68,67,70,72,277,-11,"$16,650.00"
-34,Skip Kendall,T31,68,71,69,69,277,-11,"$16,650.00"
+31,Stuart Appleby,T31,69,71,69,68,277,-11,"$16,650.00"
+32,Ken Duke,T31,68,67,70,72,277,-11,"$16,650.00"
+33,Skip Kendall,T31,68,71,69,69,277,-11,"$16,650.00"
+34,Len Mattiace,T31,69,70,70,68,277,-11,"$16,650.00"
 35,Glen Day,T31,70,71,70,66,277,-11,"$16,650.00"
-36,Len Mattiace,T31,69,70,70,68,277,-11,"$16,650.00"
+36,Shane Bertsch,T31,68,71,69,69,277,-11,"$16,650.00"
 37,Tommy Gainey,T31,70,68,66,73,277,-11,"$16,650.00"
 38,Gene Sauers,T39,73,67,68,70,278,-10,"$12,900.00"
 39,Mathew Goggin,T39,66,71,72,69,278,-10,"$12,900.00"
 40,Steven Bowditch,T39,66,67,71,74,278,-10,"$12,900.00"
 41,Gavin Coles,T42,68,68,72,71,279,-9,"$9,917.14"
-42,Brian Gay,T42,71,70,70,68,279,-9,"$9,917.14"
+42,Paul Stankowski,T42,66,70,72,71,279,-9,"$9,917.15"
 43,Cameron Beckman,T42,69,71,65,74,279,-9,"$9,917.14"
-44,Rocco Mediate,T42,67,69,71,72,279,-9,"$9,917.14"
-45,Tim Petrovic,T42,70,67,71,71,279,-9,"$9,917.15"
-46,Paul Stankowski,T42,66,70,72,71,279,-9,"$9,917.15"
+44,Brian Gay,T42,71,70,70,68,279,-9,"$9,917.14"
+45,Rocco Mediate,T42,67,69,71,72,279,-9,"$9,917.14"
+46,Tim Petrovic,T42,70,67,71,71,279,-9,"$9,917.15"
 47,Michael Bradley,T42,68,72,66,73,279,-9,"$9,917.14"
 48,Mark Brooks,T49,71,68,72,69,280,-8,"$7,215.00"
 49,Steve Lowery,T49,66,75,70,69,280,-8,"$7,215.00"
@@ -73,60 +73,60 @@
 71,Matt Jones,T72,69,70,75,72,286,-2,"$5,850.00"
 72,Brendon Todd,T72,72,67,72,75,286,-2,"$5,850.00"
 73,Kyle Reifers,74,69,70,72,76,287,-1,"$5,760.00"
-74,Matt McQuillan,CUT,70,72,,,142,-2,$0.00
+74,Sung Kang,CUT,74,71,,,145,+1,$0.00
 75,Miguel Angel Carballo,CUT,73,69,,,142,-2,$0.00
-76,Charlie Beljan,CUT,71,71,,,142,-2,$0.00
-77,Bobby Gates,CUT,70,72,,,142,-2,$0.00
-78,Richard Lee,CUT,73,69,,,142,-2,$0.00
-79,Zack Reeves,CUT,69,73,,,142,-2,$0.00
-80,Richard Johnson,CUT,71,71,,,142,-2,$0.00
-81,Hunter Haas,CUT,69,73,,,142,-2,$0.00
-82,D.J. Trahan,CUT,73,69,,,142,-2,$0.00
-83,Stephen Gangluff,CUT,70,72,,,142,-2,$0.00
-84,Peter Lonard,CUT,72,70,,,142,-2,$0.00
-85,Frank Lickliter II,CUT,71,71,,,142,-2,$0.00
-86,Notah Begay III,CUT,72,70,,,142,-2,$0.00
-87,Lee Janzen,CUT,71,71,,,142,-2,$0.00
-88,Grant Waite,CUT,69,73,,,142,-2,$0.00
-89,Tom Pernice Jr.,CUT,68,75,,,143,-1,$0.00
-90,Shaun Micheel,CUT,71,72,,,143,-1,$0.00
-91,Tom Byrum,CUT,73,70,,,143,-1,$0.00
-92,Joey Snyder III,CUT,68,75,,,143,-1,$0.00
-93,Derek Lamely,CUT,70,73,,,143,-1,$0.00
-94,Brendan Steele,CUT,70,73,,,143,-1,$0.00
-95,Blake Adams,CUT,70,73,,,143,-1,$0.00
-96,Danny Lee,CUT,74,70,,,144,E,$0.00
-97,Nathan Green,CUT,70,74,,,144,E,$0.00
-98,Will MacKenzie,CUT,70,74,,,144,E,$0.00
-99,Craig Barlow,CUT,73,71,,,144,E,$0.00
-100,John Inman,CUT,69,75,,,144,E,$0.00
-101,Joe Durant,CUT,71,73,,,144,E,$0.00
-102,Steve Flesch,CUT,71,73,,,144,E,$0.00
-103,Chris Smith,CUT,73,71,,,144,E,$0.00
-104,Edward Loar,CUT,71,74,,,145,+1,$0.00
-105,Parker McLachlin,CUT,69,76,,,145,+1,$0.00
-106,Sung Kang,CUT,74,71,,,145,+1,$0.00
-107,Erik Compton,CUT,70,76,,,146,+2,$0.00
-108,Robert Damron,CUT,71,75,,,146,+2,$0.00
-109,Blaine McCallister,CUT,75,71,,,146,+2,$0.00
-110,Jim Carter,CUT,76,70,,,146,+2,$0.00
-111,Kent Jones,CUT,72,75,,,147,+3,$0.00
-112,Anthony Price,CUT,71,77,,,148,+4,$0.00
-113,Mike Weir,CUT,75,74,,,149,+5,$0.00
-114,Robin Freeman,CUT,74,75,,,149,+5,$0.00
-115,"Jim Gallagher, Jr.",CUT,76,73,,,149,+5,$0.00
-116,Brian Bateman,CUT,72,77,,,149,+5,$0.00
-117,Fulton Allem,CUT,77,73,,,150,+6,$0.00
-118,Ted Tryba,CUT,73,77,,,150,+6,$0.00
-119,Mike Heinen,CUT,74,77,,,151,+7,$0.00
-120,Zack Miller,CUT,72,80,,,152,+8,$0.00
-121,Greg Sonnier,CUT,76,77,,,153,+9,$0.00
-122,Spike McRoy,CUT,79,75,,,154,+10,$0.00
-123,Austin Gutgsell,CUT,76,78,,,154,+10,$0.00
+76,Brendan Steele,CUT,70,73,,,143,-1,$0.00
+77,Blake Adams,CUT,70,73,,,143,-1,$0.00
+78,Danny Lee,CUT,74,70,,,144,E,$0.00
+79,Zack Miller,CUT,72,80,,,152,+8,$0.00
+80,Charlie Beljan,CUT,71,71,,,142,-2,$0.00
+81,Bobby Gates,CUT,70,72,,,142,-2,$0.00
+82,Richard Lee,CUT,73,69,,,142,-2,$0.00
+83,Austin Gutgsell,CUT,76,78,,,154,+10,$0.00
+84,Zack Reeves,CUT,69,73,,,142,-2,$0.00
+85,Brian Bateman,CUT,72,77,,,149,+5,$0.00
+86,Richard Johnson,CUT,71,71,,,142,-2,$0.00
+87,Greg Sonnier,CUT,76,77,,,153,+9,$0.00
+88,Derek Lamely,CUT,70,73,,,143,-1,$0.00
+89,Matt McQuillan,CUT,70,72,,,142,-2,$0.00
+90,Joey Snyder III,CUT,68,75,,,143,-1,$0.00
+91,Nathan Green,CUT,70,74,,,144,E,$0.00
+92,D.J. Trahan,CUT,73,69,,,142,-2,$0.00
+93,Stephen Gangluff,CUT,70,72,,,142,-2,$0.00
+94,Parker McLachlin,CUT,69,76,,,145,+1,$0.00
+95,Erik Compton,CUT,70,76,,,146,+2,$0.00
+96,Hunter Haas,CUT,69,73,,,142,-2,$0.00
+97,Will MacKenzie,CUT,70,74,,,144,E,$0.00
+98,Edward Loar,CUT,71,74,,,145,+1,$0.00
+99,Peter Lonard,CUT,72,70,,,142,-2,$0.00
+100,Robert Damron,CUT,71,75,,,146,+2,$0.00
+101,Notah Begay III,CUT,72,70,,,142,-2,$0.00
+102,Craig Barlow,CUT,73,71,,,144,E,$0.00
+103,Fulton Allem,CUT,77,73,,,150,+6,$0.00
+104,John Inman,CUT,69,75,,,144,E,$0.00
+105,Lee Janzen,CUT,71,71,,,142,-2,$0.00
+106,Tom Byrum,CUT,73,70,,,143,-1,$0.00
+107,Jim Carter,CUT,76,70,,,146,+2,$0.00
+108,Robin Freeman,CUT,74,75,,,149,+5,$0.00
+109,"Jim Gallagher, Jr.",CUT,76,73,,,149,+5,$0.00
+110,Anthony Price,CUT,71,77,,,148,+4,$0.00
+111,Tom Pernice Jr.,CUT,68,75,,,143,-1,$0.00
+112,Blaine McCallister,CUT,75,71,,,146,+2,$0.00
+113,Chris Smith,CUT,73,71,,,144,E,$0.00
+114,Ted Tryba,CUT,73,77,,,150,+6,$0.00
+115,Grant Waite,CUT,69,73,,,142,-2,$0.00
+116,Mike Weir,CUT,75,74,,,149,+5,$0.00
+117,Kent Jones,CUT,72,75,,,147,+3,$0.00
+118,Frank Lickliter II,CUT,71,71,,,142,-2,$0.00
+119,Shaun Micheel,CUT,71,72,,,143,-1,$0.00
+120,Joe Durant,CUT,71,73,,,144,E,$0.00
+121,Steve Flesch,CUT,71,73,,,144,E,$0.00
+122,Mike Heinen,CUT,74,77,,,151,+7,$0.00
+123,Spike McRoy,CUT,79,75,,,154,+10,$0.00
 124,Jim McGovern,DQ,78,,,,78,+6,$0.00
-125,Steve Wheatcroft,W/D,68,,,,68,-4,$0.00
-126,Marc Turnesa,W/D,74,,,,74,+2,$0.00
-127,Morris Hatalsky,W/D,76,,,,76,+4,$0.00
-128,Colt Knost,W/D,78,,,,78,+6,$0.00
-129,Mark Carnevale,W/D,80,,,,80,+8,$0.00
-130,Tommy Biershenk,W/D,73,67,74,,214,-2,$0.00
+125,Mark Carnevale,W/D,80,,,,80,+8,$0.00
+126,Morris Hatalsky,W/D,76,,,,76,+4,$0.00
+127,Marc Turnesa,W/D,74,,,,74,+2,$0.00
+128,Tommy Biershenk,W/D,73,67,74,,214,-2,$0.00
+129,Steve Wheatcroft,W/D,68,,,,68,-4,$0.00
+130,Colt Knost,W/D,78,,,,78,+6,$0.00

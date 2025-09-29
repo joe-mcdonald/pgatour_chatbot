@@ -5,7 +5,7 @@ SG: Off-the-Tee,-0.451,-,EVEN,Total SG:OTT: -2.704,Measured Rounds: 6
 SG: Approach the Green,-1.819,-,EVEN,Total SG:APP: -10.911,Measured Rounds: 6
 SG: Around-the-Green,-0.285,-,EVEN,Total SG:ARG: -1.712,Measured Rounds: 6
 SG: Putting,-0.491,-,EVEN,Total SG:Putting: -2.946,Measured Rounds: 6
-Longest Drives,339,331,EVEN,Tournament: Valero,Round: 1
+Longest Drives,339,475,EVEN,Tournament: Valero,Round: 1
 Driving Distance,301.0,-,EVEN,"Total Distance: 6,019",Total Drives: 20
 Driving Distance - All Drives,295.2,-,EVEN,"Total Distance: 24,203",# of Drives: 82
 Driving Accuracy Percentage,53.62%,-,EVEN,Fairways Hit: 74,Possible Fairways: 138
@@ -52,7 +52,7 @@ Going for the Green,32.00%,-,EVEN,Attempts: 8,Non-Attempts: 17
 Going for the Green - Hit Green Pct.,37.50%,-,EVEN,Successes: 3,Attempts: 8
 Going for the Green - Birdie or Better,75.00%,-,EVEN,# of Birdie or Better: 6,Attempts: 8
 Total Hole Outs,2,-,EVEN,: ,: 
-Longest Hole Outs (in yards),13,226,EVEN,Tournament: Valero,Round- Course: 2
+Longest Hole Outs (in yards),13,263,EVEN,Tournament: Valero,Round- Course: 2
 Scrambling,52.00%,-,EVEN,Par or Better: 39,Missed GIR: 75
 Scrambling from the Rough,58.62%,-,EVEN,Successes: 17,Attempts: 29
 Scrambling from the Fringe,-,-,EVEN,,
@@ -72,7 +72,7 @@ Putts per Round - Round 2,30.00,-,EVEN,Total Putts: 150,Total Rounds: 5
 Putts per Round - Round 3,-,-,EVEN,,
 Putts per Round - Round 4,-,-,EVEN,,
 One-Putt Percentage,35.56%,-,EVEN,# of 1 putts: 64,# of holes: 180
-Longest Putts,44' 6,160,EVEN,Year/Tourn#: PGA Championship,Round: 1
+Longest Putts,44' 6,199,EVEN,Year/Tourn#: PGA Championship,Round: 1
 3-Putt Avoidance,3.33%,-,EVEN,Total 3 Putts: 6,Total Holes (overall): 180
 Putting from - > 25',4.17%,-,EVEN,Attempts: 24,Putts made: 1
 Putting from - 20-25',10.00%,-,EVEN,Attempts: 10,Putts made: 1
@@ -92,7 +92,7 @@ Average Distance of Putts made,74' 2,-,EVEN,"Total Dist. (inches): 5,340",Total 
 Approach Putt Performance,2' 6,-,EVEN,: ,Attempts: 67
 Scoring Average (Adjusted),73.527,-,EVEN,Total Strokes: 728,Total Adjustment: 7.274
 Scoring Average (Actual),72.80,-,EVEN,Total Strokes: 728,Total Rounds: 10
-Lowest Round,69,293,EVEN,Tourn/Course: Corales Puntaca,Round: 1
+Lowest Round,69,357,EVEN,Tourn/Course: Corales Puntaca,Round: 1
 Birdie Average,3.10,-,EVEN,# of Birdies: 31,Total Rounds: 10
 Total Birdies,31,-,EVEN,: ,: 
 Eagles (Holes per),180.0,-,EVEN,# of Holes: 180,# of Eagles: 1
@@ -118,16 +118,16 @@ Back 9 Scoring Average,36.80,-,EVEN,Total Strokes: 368,Total Holes: 10
 Early Scoring Average,72.20,-,EVEN,Total Strokes: 361,Total Early Rounds: 5
 Late Scoring Average,73.40,-,EVEN,Total Strokes: 367,Total Late Rounds: 5
 Consecutive Cuts,-,-,EVEN,,
-Current Streak without a 3-Putt,2,406,EVEN,: ,: 
-Consecutive Fairways Hit,8,250,EVEN,Current Streak: 0,: 
-Consecutive GIR,12,189,EVEN,Current Streak: 0,Round: 2
-Consecutive Sand Saves,3,231,EVEN,Current Streak: 0,Round: 2
-Best YTD 1-Putt or Better Streak,5,221,EVEN,: ,: 
-Best YTD Streak w/o a 3-Putt,64,224,EVEN,Current Streak: 2,: 
-YTD Par or Better Streak,3,252,EVEN,: ,: 
-Consecutive Par 3 Birdies,1,223,EVEN,: ,: 
-Consecutive Holes Below Par,3,162,EVEN,: ,: 
-Consecutive Birdies Streak,3,158,EVEN,: ,: 
-Consecutive Birdies/Eagles streak,1,181,EVEN,: ,: 
+Current Streak without a 3-Putt,2,558,EVEN,: ,: 
+Consecutive Fairways Hit,8,271,EVEN,Current Streak: 0,: 
+Consecutive GIR,12,216,EVEN,Current Streak: 0,Round: 2
+Consecutive Sand Saves,3,254,EVEN,Current Streak: 0,Round: 2
+Best YTD 1-Putt or Better Streak,5,245,EVEN,: ,: 
+Best YTD Streak w/o a 3-Putt,64,254,EVEN,Current Streak: 2,: 
+YTD Par or Better Streak,3,275,EVEN,: ,: 
+Consecutive Par 3 Birdies,1,253,EVEN,: ,: 
+Consecutive Holes Below Par,3,178,EVEN,: ,: 
+Consecutive Birdies Streak,3,173,EVEN,: ,: 
+Consecutive Birdies/Eagles streak,1,210,EVEN,: ,: 
 Official Money,-,-,EVEN,,
 Comcast Business TOUR TOP 10,-,-,EVEN,,

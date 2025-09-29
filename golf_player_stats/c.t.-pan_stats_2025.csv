@@ -5,7 +5,7 @@ SG: Off-the-Tee,-0.038,-,EVEN,Total SG:OTT: -0.901,Measured Rounds: 24
 SG: Approach the Green,-0.283,-,EVEN,Total SG:APP: -6.784,Measured Rounds: 24
 SG: Around-the-Green,0.356,-,EVEN,Total SG:ARG: 8.546,Measured Rounds: 24
 SG: Putting,-0.491,-,EVEN,Total SG:Putting: -11.787,Measured Rounds: 24
-Longest Drives,365,181,EVEN,Tournament: Sony Open,Round: 3
+Longest Drives,365,257,EVEN,Tournament: Sony Open,Round: 3
 Driving Distance,294.0,-,EVEN,"Total Distance: 14,111",Total Drives: 48
 Driving Distance - All Drives,286.0,-,EVEN,"Total Distance: 93,231",# of Drives: 326
 Driving Accuracy Percentage,62.27%,-,EVEN,Fairways Hit: 203,Possible Fairways: 326
@@ -52,7 +52,7 @@ Going for the Green,57.78%,-,EVEN,Attempts: 52,Non-Attempts: 38
 Going for the Green - Hit Green Pct.,25.00%,-,EVEN,Successes: 13,Attempts: 52
 Going for the Green - Birdie or Better,63.46%,-,EVEN,# of Birdie or Better: 33,Attempts: 52
 Total Hole Outs,3,-,EVEN,: ,: 
-Longest Hole Outs (in yards),14,215,EVEN,Tournament: Valspar,Round- Course: 3
+Longest Hole Outs (in yards),14,255,EVEN,Tournament: Valspar,Round- Course: 3
 Scrambling,60.76%,-,EVEN,Par or Better: 96,Missed GIR: 158
 Scrambling from the Rough,61.82%,-,EVEN,Successes: 34,Attempts: 55
 Scrambling from the Fringe,-,-,EVEN,,
@@ -72,7 +72,7 @@ Putts per Round - Round 2,28.86,-,EVEN,Total Putts: 202,Total Rounds: 7
 Putts per Round - Round 3,31.60,-,EVEN,Total Putts: 158,Total Rounds: 5
 Putts per Round - Round 4,28.80,-,EVEN,Total Putts: 144,Total Rounds: 5
 One-Putt Percentage,38.19%,-,EVEN,# of 1 putts: 165,# of holes: 432
-Longest Putts,42' 10,173,EVEN,Year/Tourn#: Sony Open,Round: 2
+Longest Putts,42' 10,211,EVEN,Year/Tourn#: Sony Open,Round: 2
 3-Putt Avoidance,2.78%,-,EVEN,Total 3 Putts: 12,Total Holes (overall): 432
 Putting from - > 25',5.00%,-,EVEN,Attempts: 120,Putts made: 6
 Putting from - 20-25',11.11%,-,EVEN,Attempts: 27,Putts made: 3
@@ -92,7 +92,7 @@ Average Distance of Putts made,67' 3,-,EVEN,"Total Dist. (inches): 19,357",Total
 Approach Putt Performance,2' 3,-,EVEN,: ,Attempts: 264
 Scoring Average (Adjusted),71.372,-,EVEN,"Total Strokes: 1,697",Total Adjustment: 15.922
 Scoring Average (Actual),70.71,-,EVEN,"Total Strokes: 1,697",Total Rounds: 24
-Lowest Round,64,70,EVEN,Tourn/Course: Sony Open/Waial,Round: 2
+Lowest Round,64,90,EVEN,Tourn/Course: Sony Open/Waial,Round: 2
 Birdie Average,3.33,-,EVEN,# of Birdies: 80,Total Rounds: 24
 Total Birdies,80,-,EVEN,: ,: 
 Eagles (Holes per),432.0,-,EVEN,# of Holes: 432,# of Eagles: 1
@@ -118,16 +118,17 @@ Back 9 Scoring Average,35.38,-,EVEN,Total Strokes: 849,Total Holes: 24
 Early Scoring Average,70.57,-,EVEN,Total Strokes: 988,Total Early Rounds: 14
 Late Scoring Average,70.90,-,EVEN,Total Strokes: 709,Total Late Rounds: 10
 Consecutive Cuts,-,-,EVEN,,
-Current Streak without a 3-Putt,1,426,EVEN,: ,: 
-Consecutive Fairways Hit,10,200,EVEN,Current Streak: 0,: 
-Consecutive GIR,18,62,EVEN,Current Streak: 0,Round: 2
-Consecutive Sand Saves,5,144,EVEN,Current Streak: 0,Round: 3
-Best YTD 1-Putt or Better Streak,5,221,EVEN,: ,: 
-Best YTD Streak w/o a 3-Putt,82,198,EVEN,Current Streak: 1,: 
-YTD Par or Better Streak,10,74,EVEN,: ,: 
-Consecutive Par 3 Birdies,1,223,EVEN,: ,: 
-Consecutive Holes Below Par,3,162,EVEN,: ,: 
-Consecutive Birdies Streak,3,158,EVEN,: ,: 
-Consecutive Birdies/Eagles streak,1,181,EVEN,: ,: 
-Official Money,"$186,829",181,EVEN,: ,YTD Victories: 
-Comcast Business TOUR TOP 10,55,184,EVEN,# of Wins: 0,# of Top 10's: 0
+Current Streak without a 3-Putt,1,576,EVEN,: ,: 
+Consecutive Fairways Hit,10,220,EVEN,Current Streak: 0,: 
+Consecutive GIR,18,77,EVEN,Current Streak: 0,Round: 2
+Consecutive Sand Saves,5,153,EVEN,Current Streak: 0,Round: 3
+Best YTD 1-Putt or Better Streak,5,245,EVEN,: ,: 
+Best YTD Streak w/o a 3-Putt,82,212,EVEN,Current Streak: 1,: 
+YTD Par or Better Streak,10,90,EVEN,: ,: 
+Consecutive Par 3 Birdies,1,253,EVEN,: ,: 
+Consecutive Holes Below Par,3,178,EVEN,: ,: 
+Consecutive Birdies Streak,3,173,EVEN,: ,: 
+Consecutive Birdies/Eagles streak,1,210,EVEN,: ,: 
+Official Money,"$186,829",184,EVEN,: ,YTD Victories: 
+FedExCup Fall Points,55,194,EVEN,: ,: 
+Comcast Business TOUR TOP 10,55,192,EVEN,# of Wins: 0,# of Top 10's: 0

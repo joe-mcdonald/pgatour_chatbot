@@ -1,11 +1,11 @@
 Stat Title,Value,Rank,Above/Below,Supporting Stat,Supporting Value
 SG: Total,-4.440,-,EVEN,Total SG:T: -48.844,Measured Rounds: 11
 SG: Tee-to-Green,-5.239,-,EVEN,SG:OTT: -2.227,Measured Rounds: 11
-SG: Off-the-Tee,-2.227,-,EVEN,Total SG:OTT: -24.500,Measured Rounds: 11
-SG: Approach the Green,-3.028,-,EVEN,Total SG:APP: -33.310,Measured Rounds: 11
-SG: Around-the-Green,0.016,-,EVEN,Total SG:ARG: 0.178,Measured Rounds: 11
+SG: Off-the-Tee,-2.227,-,EVEN,Total SG:OTT: -24.501,Measured Rounds: 11
+SG: Approach the Green,-3.031,-,EVEN,Total SG:APP: -33.346,Measured Rounds: 11
+SG: Around-the-Green,0.020,-,EVEN,Total SG:ARG: 0.216,Measured Rounds: 11
 SG: Putting,0.799,-,EVEN,Total SG:Putting: 8.789,Measured Rounds: 11
-Longest Drives,375,126,EVEN,Tournament: AT&T Pebble Beach,Round: 4
+Longest Drives,375,161,EVEN,Tournament: AT&T Pebble Beach,Round: 4
 Driving Distance,282.1,-,EVEN,"Total Distance: 6,770",Total Drives: 24
 Driving Distance - All Drives,271.7,-,EVEN,"Total Distance: 41,840",# of Drives: 154
 Driving Accuracy Percentage,44.05%,-,EVEN,Fairways Hit: 74,Possible Fairways: 168
@@ -24,13 +24,13 @@ Approaches from > 200 yards,65' 9,-,EVEN,"Total Distance (feet): 1,381.000",# of
 Approaches from 175-200 yards,59' 1,-,EVEN,"Total Distance (feet): 1,299.083",# of Attempts: 22
 Approaches from 150-175 yards,40' 1,-,EVEN,"Total Distance (feet): 1,083.167",# of Attempts: 27
 Approaches from 125-150 yards,28' 6,-,EVEN,Total Distance (feet): 541.333,# of Attempts: 19
-Approaches from 50-125 yards,24' 2,-,EVEN,Total Distance (feet): 483.417,# of Attempts: 20
-Approaches from 100-125 yards,27' 11,-,EVEN,Total Distance (feet): 418.333,# of Attempts: 15
+Approaches from 50-125 yards,24' 3,-,EVEN,Total Distance (feet): 460.250,# of Attempts: 19
+Approaches from 100-125 yards,28' 3,-,EVEN,Total Distance (feet): 395.167,# of Attempts: 14
 Approaches from 75-100 yards,13' 0,-,EVEN,Total Distance (feet): 65.083,# of Attempts: 5
 Approaches from 50-75 yards,-,-,EVEN,,
 Approaches from inside 100 yards,13' 0,-,EVEN,Total Distance (feet): 65.083,# of Attempts: 5
-Approaches from > 100 yards,45' 5,-,EVEN,"Total Distance (feet): 4,722.917",# of Attempts: 104
-Fairway Proximity,43' 11,-,EVEN,: ,Attempts: 109
+Approaches from > 100 yards,45' 8,-,EVEN,"Total Distance (feet): 4,699.750",# of Attempts: 103
+Fairway Proximity,44' 1,-,EVEN,: ,Attempts: 108
 Rough Proximity,43' 6,-,EVEN,"Total Distance (inches): 33,915",Attempts: 65
 Left Rough Proximity,41' 4,-,EVEN,: ,Attempts: 37
 Right Rough Proximity,46' 3,-,EVEN,: ,Attempts: 28
@@ -52,7 +52,7 @@ Going for the Green,41.03%,-,EVEN,Attempts: 16,Non-Attempts: 23
 Going for the Green - Hit Green Pct.,25.00%,-,EVEN,Successes: 4,Attempts: 16
 Going for the Green - Birdie or Better,68.75%,-,EVEN,# of Birdie or Better: 11,Attempts: 16
 Total Hole Outs,5,-,EVEN,: ,: 
-Longest Hole Outs (in yards),29,127,EVEN,Tournament: AT&T Pebble Beach,Round- Course: 2
+Longest Hole Outs (in yards),29,156,EVEN,Tournament: AT&T Pebble Beach,Round- Course: 2
 Scrambling,49.54%,-,EVEN,Par or Better: 54,Missed GIR: 109
 Scrambling from the Rough,46.81%,-,EVEN,Successes: 22,Attempts: 47
 Scrambling from the Fringe,-,-,EVEN,,
@@ -72,7 +72,7 @@ Putts per Round - Round 2,27.20,-,EVEN,Total Putts: 136,Total Rounds: 5
 Putts per Round - Round 3,23.00,-,EVEN,Total Putts: 23,Total Rounds: 1
 Putts per Round - Round 4,27.00,-,EVEN,Total Putts: 27,Total Rounds: 1
 One-Putt Percentage,43.52%,-,EVEN,# of 1 putts: 94,# of holes: 216
-Longest Putts,44' 9,157,EVEN,Year/Tourn#: WM Phoenix Open,Round: 2
+Longest Putts,44' 9,197,EVEN,Year/Tourn#: WM Phoenix Open,Round: 2
 3-Putt Avoidance,.93%,-,EVEN,Total 3 Putts: 2,Total Holes (overall): 216
 Putting from - > 25',5.26%,-,EVEN,Attempts: 38,Putts made: 2
 Putting from - 20-25',10.00%,-,EVEN,Attempts: 20,Putts made: 2
@@ -92,7 +92,7 @@ Average Distance of Putts made,74' 9,-,EVEN,"Total Dist. (inches): 9,865",Total 
 Approach Putt Performance,1' 11,-,EVEN,: ,Attempts: 106
 Scoring Average (Adjusted),75.674,-,EVEN,Total Strokes: 890,Total Adjustment: 18.091
 Scoring Average (Actual),74.17,-,EVEN,Total Strokes: 890,Total Rounds: 12
-Lowest Round,68,248,EVEN,Tourn/Course: Sony Open/Waial,Round: 2
+Lowest Round,68,294,EVEN,Tourn/Course: Sony Open/Waial,Round: 2
 Birdie Average,2.92,-,EVEN,# of Birdies: 35,Total Rounds: 12
 Total Birdies,35,-,EVEN,: ,: 
 Eagles (Holes per),216.0,-,EVEN,# of Holes: 216,# of Eagles: 1
@@ -118,16 +118,17 @@ Back 9 Scoring Average,36.83,-,EVEN,Total Strokes: 442,Total Holes: 12
 Early Scoring Average,74.00,-,EVEN,Total Strokes: 444,Total Early Rounds: 6
 Late Scoring Average,74.33,-,EVEN,Total Strokes: 446,Total Late Rounds: 6
 Consecutive Cuts,-,-,EVEN,,
-Current Streak without a 3-Putt,54,50,EVEN,: ,: 
-Consecutive Fairways Hit,6,315,EVEN,Current Streak: 0,: 
-Consecutive GIR,7,300,EVEN,Current Streak: 1,Round: 2
-Consecutive Sand Saves,5,144,EVEN,Current Streak: 0,Round: 1
-Best YTD 1-Putt or Better Streak,7,91,EVEN,: ,: 
-Best YTD Streak w/o a 3-Putt,158,57,EVEN,Current Streak: 54,: 
-YTD Par or Better Streak,2,281,EVEN,: ,: 
-Consecutive Par 3 Birdies,2,75,EVEN,: ,: 
-Consecutive Holes Below Par,2,253,EVEN,: ,: 
-Consecutive Birdies Streak,2,253,EVEN,: ,: 
-Consecutive Birdies/Eagles streak,1,181,EVEN,: ,: 
-Official Money,"$32,500",209,EVEN,: ,YTD Victories: 
-Comcast Business TOUR TOP 10,4,220,EVEN,# of Wins: 0,# of Top 10's: 0
+Current Streak without a 3-Putt,54,57,EVEN,: ,: 
+Consecutive Fairways Hit,6,350,EVEN,Current Streak: 0,: 
+Consecutive GIR,7,373,EVEN,Current Streak: 1,Round: 2
+Consecutive Sand Saves,5,153,EVEN,Current Streak: 0,Round: 1
+Best YTD 1-Putt or Better Streak,7,105,EVEN,: ,: 
+Best YTD Streak w/o a 3-Putt,158,73,EVEN,Current Streak: 54,: 
+YTD Par or Better Streak,2,316,EVEN,: ,: 
+Consecutive Par 3 Birdies,2,97,EVEN,: ,: 
+Consecutive Holes Below Par,2,285,EVEN,: ,: 
+Consecutive Birdies Streak,2,284,EVEN,: ,: 
+Consecutive Birdies/Eagles streak,1,210,EVEN,: ,: 
+Official Money,"$32,500",217,EVEN,: ,YTD Victories: 
+FedExCup Fall Points,4,228,EVEN,: ,: 
+Comcast Business TOUR TOP 10,4,226,EVEN,# of Wins: 0,# of Top 10's: 0

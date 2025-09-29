@@ -1,0 +1,439 @@
+year,category,sub_category,stat_id,player_id,player_name,stat_title,stat_value,rank,country
+2024-2025,STROKES_GAINED,Strokes Gained Leaders,02675,46046,Scottie Scheffler,SG: Total,2.743,1st,United States
+2024-2025,STROKES_GAINED,Strokes Gained Leaders,02674,46046,Scottie Scheffler,SG: Tee-to-Green,2.361,1st,United States
+2024-2025,STROKES_GAINED,Strokes Gained Leaders,02567,46046,Scottie Scheffler,SG: Off-the-Tee,0.748,1st,United States
+2024-2025,STROKES_GAINED,Strokes Gained Leaders,02568,46046,Scottie Scheffler,SG: Approach the Green,1.291,1st,United States
+2024-2025,STROKES_GAINED,Strokes Gained Leaders,02569,48887,Matt Wallace,SG: Around-the-Green,0.570,1st,England
+2024-2025,STROKES_GAINED,Strokes Gained Leaders,02564,47504,Sam Burns,SG: Putting,0.983,1st,United States
+2024-2025,OFF_TEE,Driving Leaders,02674,46046,Scottie Scheffler,SG: Tee-to-Green,2.361,1st,United States
+2024-2025,OFF_TEE,Driving Leaders,02567,46046,Scottie Scheffler,SG: Off-the-Tee,0.748,1st,United States
+2024-2025,OFF_TEE,Driving Leaders,129,51696,Rico Hoey,Total Driving,57,1st,Philippines
+2024-2025,OFF_TEE,Driving Leaders,101,63343,Aldrich Potgieter,Driving Distance,327.4,1st,South Africa
+2024-2025,OFF_TEE,Driving Leaders,102,46414,Aaron Rai,Driving Accuracy Percentage,73.85%,1st,England
+2024-2025,OFF_TEE,Driving Leaders,02402,63343,Aldrich Potgieter,Ball Speed,190.14,1st,South Africa
+2024-2025,OFF_TEE,Distance (All Drives),159,47420,Jake Knapp,Longest Drives,444,1st,United States
+2024-2025,OFF_TEE,Distance (All Drives),101,63343,Aldrich Potgieter,Driving Distance,327.4,1st,South Africa
+2024-2025,OFF_TEE,Distance (All Drives),496,63343,Aldrich Potgieter,Driving Pct. 320+ (Measured),60.00%,1st,South Africa
+2024-2025,OFF_TEE,Distance (All Drives),495,47995,Davis Riley,Driving Pct. 300-320 (Measured),48.65%,1st,United States
+2024-2025,OFF_TEE,Distance (All Drives),454,63343,Aldrich Potgieter,Driving Pct. 300+ (Measured),87.00%,1st,South Africa
+2024-2025,OFF_TEE,Distance (All Drives),455,51890,Greyson Sigg,Driving Pct. 280-300 (Measured),50.00%,1st,United States
+2024-2025,OFF_TEE,Distance (All Drives),456,46443,Brian Campbell,Driving Pct. 260-280 (Measured),48.44%,1st,United States
+2024-2025,OFF_TEE,Distance (All Drives),457,34256,Andrew Putnam,Driving Pct. 240-260 (Measured),11.29%,1st,United States
+2024-2025,OFF_TEE,Distance (All Drives),458,27770,Camilo Villegas,Driving Pct. <= 240 (Measured),3.51%,1st,Colombia
+2024-2025,OFF_TEE,Distance (All Drives),317,63343,Aldrich Potgieter,Driving Distance - All Drives,311.7,1st,South Africa
+2024-2025,OFF_TEE,Distance (All Drives),02433,63343,Aldrich Potgieter,Driving Pct. 320+ (All Drives),43.75%,1st,South Africa
+2024-2025,OFF_TEE,Distance (All Drives),02432,49947,Taylor Moore,Driving Pct. 300-320 (All Drives),36.64%,1st,United States
+2024-2025,OFF_TEE,Distance (All Drives),214,59095,Chris Gotterup,Driving Pct. 300+ (All Drives),68.40%,1st,United States
+2024-2025,OFF_TEE,Distance (All Drives),215,39327,Ben Silverman,Driving Pct. 280-300 (All Drives),40.80%,1st,Canada
+2024-2025,OFF_TEE,Distance (All Drives),216,46443,Brian Campbell,Driving Pct. 260-280 (All Drives),41.60%,1st,United States
+2024-2025,OFF_TEE,Distance (All Drives),217,34256,Andrew Putnam,Driving Pct. 240-260 (All Drives),15.62%,1st,United States
+2024-2025,OFF_TEE,Distance (All Drives),218,33204,Shane Lowry,Driving Pct. <= 240 (All Drives),7.76%,1st,Ireland
+2024-2025,OFF_TEE,Distance (All Drives),02341,63343,Aldrich Potgieter,Percentage of Yardage covered by Tee Shots,66.26%,1st,South Africa
+2024-2025,OFF_TEE,Distance (All Drives),02342,63343,Aldrich Potgieter,Percentage of Yardage covered by Tee Shots - Par 4's,70.23%,1st,South Africa
+2024-2025,OFF_TEE,Distance (All Drives),02343,28237,Rory McIlroy,Percentage of Yardage covered by Tee Shots - Par 5's,56.75%,1st,Northern Ireland
+2024-2025,OFF_TEE,Distance (Measured Drives),101,63343,Aldrich Potgieter,Driving Distance,327.4,1st,South Africa
+2024-2025,OFF_TEE,Distance (Measured Drives),496,63343,Aldrich Potgieter,Driving Pct. 320+ (Measured),60.00%,1st,South Africa
+2024-2025,OFF_TEE,Distance (Measured Drives),495,47995,Davis Riley,Driving Pct. 300-320 (Measured),48.65%,1st,United States
+2024-2025,OFF_TEE,Distance (Measured Drives),454,63343,Aldrich Potgieter,Driving Pct. 300+ (Measured),87.00%,1st,South Africa
+2024-2025,OFF_TEE,Distance (Measured Drives),455,51890,Greyson Sigg,Driving Pct. 280-300 (Measured),50.00%,1st,United States
+2024-2025,OFF_TEE,Distance (Measured Drives),456,46443,Brian Campbell,Driving Pct. 260-280 (Measured),48.44%,1st,United States
+2024-2025,OFF_TEE,Distance (Measured Drives),457,34256,Andrew Putnam,Driving Pct. 240-260 (Measured),11.29%,1st,United States
+2024-2025,OFF_TEE,Distance (Measured Drives),458,27770,Camilo Villegas,Driving Pct. <= 240 (Measured),3.51%,1st,Colombia
+2024-2025,OFF_TEE,Accuracy,102,46414,Aaron Rai,Driving Accuracy Percentage,73.85%,1st,England
+2024-2025,OFF_TEE,Accuracy,02435,46414,Aaron Rai,Rough Tendency,19.77%,1st,England
+2024-2025,OFF_TEE,Accuracy,459,46414,Aaron Rai,Left Rough Tendency,6.29%,1st,England
+2024-2025,OFF_TEE,Accuracy,460,46046,Scottie Scheffler,Right Rough Tendency,9.05%,1st,United States
+2024-2025,OFF_TEE,Accuracy,080,50582,Jeremy Paul,Right Rough Tendency (RTP Score),-.150,1st,Germany
+2024-2025,OFF_TEE,Accuracy,081,47988,Nick Hardy,Left Rough Tendency (RTP Score),-.155,1st,United States
+2024-2025,OFF_TEE,Accuracy,01008,36824,Paul Peterson,Fairway Bunker Tendency,2.9,1st,United States
+2024-2025,OFF_TEE,Accuracy,461,36824,Paul Peterson,Missed Fairway Percent - Other,1.89%,1st,United States
+2024-2025,OFF_TEE,Accuracy,213,46414,Aaron Rai,Hit Fairway Percentage,73.26%,1st,England
+2024-2025,OFF_TEE,Accuracy,02420,47917,Takumi Kanaya,Distance from Edge of Fairway,"15' 10""",1st,Japan
+2024-2025,OFF_TEE,Accuracy,02421,52513,Carson Young,Distance from Center of Fairway,"17' 0""",1st,United States
+2024-2025,OFF_TEE,Accuracy,02422,48117,Kurt Kitayama,Left Tendency,35.0,1st,United States
+2024-2025,OFF_TEE,Accuracy,02423,56630,Akshay Bhatia,Right Tendency,36.1,1st,United States
+2024-2025,OFF_TEE,Accuracy,02438,46414,Aaron Rai,Good Drive Percentage,87.44%,1st,England
+2024-2025,OFF_TEE,Radar,02401,63343,Aldrich Potgieter,Club Head Speed,125.75,1st,South Africa
+2024-2025,OFF_TEE,Radar,02402,63343,Aldrich Potgieter,Ball Speed,190.14,1st,South Africa
+2024-2025,OFF_TEE,Radar,02403,51890,Greyson Sigg,Smash Factor,1.515,1st,United States
+2024-2025,OFF_TEE,Radar,02404,36824,Paul Peterson,Launch Angle,14.02,1st,United States
+2024-2025,OFF_TEE,Radar,02405,34256,Andrew Putnam,Spin Rate,"3,094.4",1st,United States
+2024-2025,OFF_TEE,Radar,02406,63343,Aldrich Potgieter,Distance to Apex,210.2,1st,South Africa
+2024-2025,OFF_TEE,Radar,02407,49590,Frankie Capan III,Apex Height,"133' 4""",1st,United States
+2024-2025,OFF_TEE,Radar,02408,49590,Frankie Capan III,Hang Time,7.7,1st,United States
+2024-2025,OFF_TEE,Radar,02409,63343,Aldrich Potgieter,Carry Distance,314.8,1st,South Africa
+2024-2025,OFF_TEE,Radar,02410,33141,Keegan Bradley,Carry Efficiency,2.548,1st,United States
+2024-2025,OFF_TEE,Radar,02411,36824,Paul Peterson,Total Distance Efficiency,2.728,1st,United States
+2024-2025,OFF_TEE,Radar,02412,36824,Paul Peterson,Total Driving Efficiency,7,1st,United States
+2024-2025,OFF_TEE,Scoring,080,50582,Jeremy Paul,Right Rough Tendency (RTP Score),-.150,1st,Germany
+2024-2025,OFF_TEE,Scoring,081,47988,Nick Hardy,Left Rough Tendency (RTP Score),-.155,1st,United States
+2024-2025,APPROACH_GREEN,Approach Leaders,02568,46046,Scottie Scheffler,SG: Approach the Green,1.291,1st,United States
+2024-2025,APPROACH_GREEN,Approach Leaders,158,51696,Rico Hoey,Ball Striking,2,1st,Philippines
+2024-2025,APPROACH_GREEN,Approach Leaders,103,51696,Rico Hoey,Greens in Regulation Percentage,72.29%,1st,Philippines
+2024-2025,APPROACH_GREEN,Approach Leaders,331,46046,Scottie Scheffler,Proximity to Hole,"33' 4""",1st,United States
+2024-2025,APPROACH_GREEN,Approach Leaders,02331,46717,Viktor Hovland,Approaches from > 100 yards,"30' 1""",1st,Norway
+2024-2025,APPROACH_GREEN,Approach Leaders,02329,34098,Russell Henley,Approaches from inside 100 yards,"13' 7""",1st,United States
+2024-2025,APPROACH_GREEN,Greens in Regulation,103,51696,Rico Hoey,Greens in Regulation Percentage,72.29%,1st,Philippines
+2024-2025,APPROACH_GREEN,Greens in Regulation,02437,51696,Rico Hoey,Greens or Fringe in Regulation,76.78%,1st,Philippines
+2024-2025,APPROACH_GREEN,Greens in Regulation,326,40098,Matt Fitzpatrick,GIR Percentage - 200+ yards,58.97%,1st,England
+2024-2025,APPROACH_GREEN,Greens in Regulation,327,54304,Karl Vilips,GIR Percentage - 175-200 yards,67.12%,1st,Australia
+2024-2025,APPROACH_GREEN,Greens in Regulation,328,36884,Ben Kohles,GIR Percentage - 150-175 yards,74.87%,1st,United States
+2024-2025,APPROACH_GREEN,Greens in Regulation,329,34256,Andrew Putnam,GIR Percentage - 125-150 yards,82.44%,1st,United States
+2024-2025,APPROACH_GREEN,Greens in Regulation,330,36884,Ben Kohles,GIR Percentage - < 125 yards,87.85%,1st,United States
+2024-2025,APPROACH_GREEN,Greens in Regulation,077,49960,Sepp Straka,GIR Percentage - 100-125 yards,84.87%,1st,Austria
+2024-2025,APPROACH_GREEN,Greens in Regulation,02332,47679,Victor Perez,GIR Percentage - 100+ yards,68.85%,1st,France
+2024-2025,APPROACH_GREEN,Greens in Regulation,02330,46646,Antoine Rozner,GIR Percentage - < 100 yards,92.43%,1st,France
+2024-2025,APPROACH_GREEN,Greens in Regulation,078,36824,Paul Peterson,GIR Percentage - 75-100 yards,91.23%,1st,United States
+2024-2025,APPROACH_GREEN,Greens in Regulation,079,34587,Chan Kim,GIR Percentage - < 75 yards,95.14%,1st,United States
+2024-2025,APPROACH_GREEN,Greens in Regulation,190,46046,Scottie Scheffler,GIR Percentage from Fairway,83.59%,1st,United States
+2024-2025,APPROACH_GREEN,Greens in Regulation,02434,57364,Michael Thorbjornsen,GIR Pct. - Fairway Bunker,70.3%,1st,United States
+2024-2025,APPROACH_GREEN,Greens in Regulation,199,59440,Ricky Castillo,GIR Percentage from Other than Fairway,64.36%,1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,331,46046,Scottie Scheffler,Proximity to Hole,"33' 4""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,02361,46046,Scottie Scheffler,Approaches from > 275 yards,"55' 10""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,02360,60882,Thomas Rosenmueller,Approaches from 250-275 yards,"45' 1""",1st,Germany
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,02359,38991,Alejandro Tosti,Approaches from 225-250 yards,"39' 0""",1st,Argentina
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,02358,51950,Max McGreevy,Approaches from 200-225 yards,"34' 11""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,336,48117,Kurt Kitayama,Approaches from > 200 yards,"42' 10""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,337,48867,Matti Schmid,Approaches from 175-200 yards,"28' 4""",1st,Germany
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,338,46717,Viktor Hovland,Approaches from 150-175 yards,"22' 8""",1st,Norway
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,339,25900,Lucas Glover,Approaches from 125-150 yards,"19' 4""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,340,46046,Scottie Scheffler,Approaches from 50-125 yards,"15' 4""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,074,33448,Justin Thomas,Approaches from 100-125 yards,"15' 4""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,075,34098,Russell Henley,Approaches from 75-100 yards,"12' 4""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,076,46601,Trey Mullinax,Approaches from 50-75 yards,"9' 5""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,02329,34098,Russell Henley,Approaches from inside 100 yards,"13' 7""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,02331,46717,Viktor Hovland,Approaches from > 100 yards,"30' 1""",1st,Norway
+2024-2025,APPROACH_GREEN,Accuracy from Fairway,431,46046,Scottie Scheffler,Fairway Proximity,"28' 9""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,437,47347,Adam Schenk,Rough Proximity,"38' 8""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,432,47347,Adam Schenk,Left Rough Proximity,"34' 5""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,433,59141,Matt McCarty,Right Rough Proximity,"37' 5""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02375,48153,Matthieu Pavon,Approaches from > 275 yards (Rgh),"36' 6""",1st,France
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02374,34076,Joel Dahmen,Approaches from 250-275 yards (Rgh),"13' 11""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02373,52453,Nicolai Højgaard,Approaches from 225-250 yards (Rgh),"47' 10""",1st,Denmark
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02372,46046,Scottie Scheffler,Approaches from 200-225 yards (Rgh),"42' 8""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02371,47347,Adam Schenk,Approaches from > 100 yards (Rgh),"41' 1""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02370,52666,Sami Valimaki,Approaches from inside 100 yards (Rgh),"15' 5""",1st,Finland
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02369,47347,Adam Schenk,Approaches from > 200 yards (Rgh),"52' 3""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02368,37455,Si Woo Kim,Approaches from 175-200 yards (Rgh),"39' 6""",1st,Republic of Korea
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02367,28775,Nate Lashley,Approaches from 150-175 yards (Rgh),"34' 2""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02366,55789,Taylor Montgomery,Approaches from 125-150 yards (Rgh),"25' 3""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02365,28775,Nate Lashley,Approaches from 50-125 yards (Rgh),"22' 2""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02364,58619,Kevin Velo,Approaches from 100-125 yards (Rgh),"21' 3""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02363,28775,Nate Lashley,Approaches from 75-100 yards (Rgh),"16' 0""",1st,United States
+2024-2025,APPROACH_GREEN,Accuracy from Rough,02362,27649,Brandt Snedeker,Approaches from 50-75 yards (Rgh),"11' 9""",1st,United States
+2024-2025,APPROACH_GREEN,Scoring,02333,46046,Scottie Scheffler,Birdie or Better Percentage - Fairway,28.62%,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,02334,47988,Nick Hardy,Birdie or Better Percentage - Left Rough,32.53%,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,02335,27064,Jhonattan Vegas,Birdie or Better Percentage - Right Rough,26.26%,1st,Venezuela
+2024-2025,APPROACH_GREEN,Scoring,02336,47988,Nick Hardy,Birdie or Better Percentage - Rough,25.79%,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,357,52453,Nicolai Højgaard,Birdie or Better Percentage - 200+ yards,44.12%,1st,Denmark
+2024-2025,APPROACH_GREEN,Scoring,358,40250,Taylor Pendrith,Birdie or Better Percentage - 175-200 yards,20.00%,1st,Canada
+2024-2025,APPROACH_GREEN,Scoring,359,46717,Viktor Hovland,Birdie or Better Percentage - 150-175 yards,22.35%,1st,Norway
+2024-2025,APPROACH_GREEN,Scoring,360,36824,Paul Peterson,Birdie or Better Percentage - 125-150 yards,29.29%,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,361,57975,Harry Hall,Birdie or Better Percentage - < 125 yards,33.62%,1st,England
+2024-2025,APPROACH_GREEN,Scoring,02379,52144,Braden Thornberry,Approach > 275 yards (RTP),-1.000,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,02378,52370,Mason Andersen,Approach 250-275 yards (RTP),-.824,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,02377,46046,Scottie Scheffler,Approach 225-250 yards (RTP),-.429,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,02376,52453,Nicolai Højgaard,Approach 200-225 yards (RTP),-.203,1st,Denmark
+2024-2025,APPROACH_GREEN,Scoring,480,46046,Scottie Scheffler,Approach > 200 yards (RTP Score),-.298,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,479,46046,Scottie Scheffler,Approach 175-200 yards (RTP Score),-.132,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,478,32839,Hideki Matsuyama,Approach 150-175 yards (RTP Score),-.160,1st,Japan
+2024-2025,APPROACH_GREEN,Scoring,473,36824,Paul Peterson,Approach 125-150 yards (RTP Score),-.278,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,472,34098,Russell Henley,Approach < 125 yards (RTP Score),-.324,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,028,27770,Camilo Villegas,Approach 100-125 yards (RTP Score),-.365,1st,Colombia
+2024-2025,APPROACH_GREEN,Scoring,029,49590,Frankie Capan III,Approach 75-100 yards (RTP Score),-.522,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,030,48887,Matt Wallace,Approach 50-75 yards (RTP Score),-.643,1st,England
+2024-2025,APPROACH_GREEN,Scoring,02380,59160,John Pak,Approaches 50-75 yards-Rgh (RTP),-.500,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,02381,24502,Adam Scott,Approaches 75-100 yards-Rgh (RTP),-.364,1st,Australia
+2024-2025,APPROACH_GREEN,Scoring,02382,35506,Mackenzie Hughes,Approaches 100-125 yards-Rgh (RTP),-.212,1st,Canada
+2024-2025,APPROACH_GREEN,Scoring,02383,24502,Adam Scott,Approaches 50-125 yards-Rgh (RTP),-.222,1st,Australia
+2024-2025,APPROACH_GREEN,Scoring,02384,25493,Nick Taylor,Approaches 125-150 yards-Rgh (RTP),-.146,1st,Canada
+2024-2025,APPROACH_GREEN,Scoring,02385,55182,Tom Kim,Approaches 150-175 yards-Rgh (RTP),-.095,1st,Republic of Korea
+2024-2025,APPROACH_GREEN,Scoring,02386,39546,Keith Mitchell,Approaches 175-200 yards-Rgh (RTP),-.091,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,02387,48887,Matt Wallace,Approaches > 200 yards-Rgh (RTP),-.579,1st,England
+2024-2025,APPROACH_GREEN,Scoring,02388,24502,Adam Scott,Approaches < 100 yards-Rgh (RTP),-.409,1st,Australia
+2024-2025,APPROACH_GREEN,Scoring,02389,48117,Kurt Kitayama,Approaches > 100 yards-Rgh (RTP),-.071,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,02390,37378,Min Woo Lee,Approaches 200-225 yards-Rgh (RTP),-.385,1st,Australia
+2024-2025,APPROACH_GREEN,Scoring,02391,54628,Lee Hodges,Approaches 225-250 yards-Rgh (RTP),-1.100,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,02392,45522,Christiaan Bezuidenhout,Approaches 250-275 yards-Rgh (RTP),-1.500,1st,South Africa
+2024-2025,APPROACH_GREEN,Scoring,02393,59866,Nick Dunlap,Approaches > 275 yards-Rgh (RTP),-1.500,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,469,47988,Nick Hardy,Approaches Left Rough (RTP Score),-.181,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,470,54607,Danny Walker,Approaches Right Rough (RTP Score),-.103,1st,United States
+2024-2025,APPROACH_GREEN,Scoring,471,46046,Scottie Scheffler,Fairway Approach (RTP Score),-.213,1st,United States
+2024-2025,APPROACH_GREEN,Going for it,419,52453,Nicolai Højgaard,Going for the Green,77.27%,1st,Denmark
+2024-2025,APPROACH_GREEN,Going for it,486,52686,Rasmus Højgaard,Going for the Green - Hit Green Pct.,38.06%,1st,Denmark
+2024-2025,APPROACH_GREEN,Going for it,02357,46046,Scottie Scheffler,Going for the Green - Birdie or Better,70.43%,1st,United States
+2024-2025,APPROACH_GREEN,Going for it,436,45242,Kevin Yu,Par 5 Going for the Green,75.23%,1st,Chinese Taipei
+2024-2025,APPROACH_GREEN,Going for it,02426,27139,David Skinns,Average Going for it Shot Distance (in Yards),253.3,1st,England
+2024-2025,APPROACH_GREEN,Going for it,02431,57364,Michael Thorbjornsen,Average Distance after Going for it Shot,20.0,1st,United States
+2024-2025,APPROACH_GREEN,"Holeouts, Other",350,39971,Sungjae Im,Total Hole Outs,32,1st,Republic of Korea
+2024-2025,APPROACH_GREEN,"Holeouts, Other",351,34360,Patrick Reed,Longest Hole Outs (in yards),286,1st,United States
+2024-2025,APPROACH_GREEN,"Holeouts, Other",02325,37378,Min Woo Lee,Average Approach Shot Distance,160.3,1st,Australia
+2024-2025,APPROACH_GREEN,"Holeouts, Other",02338,36824,Paul Peterson,Average Approach Distance - Birdie or Better,157.5,1st,United States
+2024-2025,APPROACH_GREEN,"Holeouts, Other",02339,37378,Min Woo Lee,Average Approach Distance - Par,157.0,1st,Australia
+2024-2025,APPROACH_GREEN,"Holeouts, Other",02340,48117,Kurt Kitayama,Average Approach Distance - Bogey or Worse,152.2,1st,United States
+2024-2025,APPROACH_GREEN,"Holeouts, Other",02430,28237,Rory McIlroy,Average Distance to Hole After Tee Shot,158.3,1st,Northern Ireland
+2024-2025,AROUND_GREEN,Short Game Leaders,02569,48887,Matt Wallace,SG: Around-the-Green,0.570,1st,England
+2024-2025,AROUND_GREEN,Short Game Leaders,130,46046,Scottie Scheffler,Scrambling,68.69%,1st,United States
+2024-2025,AROUND_GREEN,Short Game Leaders,374,23108,Matt Kuchar,Proximity to Hole (ARG),"6' 3""",1st,United States
+2024-2025,AROUND_GREEN,Short Game Leaders,111,32839,Hideki Matsuyama,Sand Save Percentage,71.32%,1st,Japan
+2024-2025,AROUND_GREEN,Short Game Leaders,363,48887,Matt Wallace,Scrambling from Rough,69.66%,1st,England
+2024-2025,AROUND_GREEN,Short Game Leaders,366,25493,Nick Taylor,Scrambling from > 30 yards,42.86%,1st,Canada
+2024-2025,AROUND_GREEN,Up and Down,130,46046,Scottie Scheffler,Scrambling,68.69%,1st,United States
+2024-2025,AROUND_GREEN,Up and Down,362,32839,Hideki Matsuyama,Scrambling from the Sand,74.74%,1st,Japan
+2024-2025,AROUND_GREEN,Up and Down,363,48887,Matt Wallace,Scrambling from the Rough,69.66%,1st,England
+2024-2025,AROUND_GREEN,Up and Down,365,28775,Nate Lashley,Scrambling from Other Locations,74.44%,1st,United States
+2024-2025,AROUND_GREEN,Up and Down,366,25493,Nick Taylor,Scrambling from > 30 yards,42.86%,1st,Canada
+2024-2025,AROUND_GREEN,Up and Down,367,35532,Tom Hoge,Scrambling from 20-30 yards,71.05%,1st,United States
+2024-2025,AROUND_GREEN,Up and Down,368,37378,Min Woo Lee,Scrambling from 10-20 yards,75.35%,1st,Australia
+2024-2025,AROUND_GREEN,Up and Down,369,35461,Beau Hossler,Scrambling from < 10 yards,98.75%,1st,United States
+2024-2025,AROUND_GREEN,Up and Down,111,32839,Hideki Matsuyama,Sand Save Percentage,71.32%,1st,Japan
+2024-2025,AROUND_GREEN,Up and Down,370,60019,Jackson Suber,Sand Saves from 30+ yards,100.00%,1st,United States
+2024-2025,AROUND_GREEN,Up and Down,371,51287,Ryo Hisatsune,Sand Saves from 20-30 yards,80.00%,1st,Japan
+2024-2025,AROUND_GREEN,Up and Down,372,34256,Andrew Putnam,Sand Saves from 10-20 yards,79.31%,1st,United States
+2024-2025,AROUND_GREEN,Up and Down,373,47504,Sam Burns,Sand Saves from < 10 yards,100.00%,1st,United States
+2024-2025,AROUND_GREEN,Accuracy,374,23108,Matt Kuchar,Proximity to Hole (ARG),"6' 3""",1st,United States
+2024-2025,AROUND_GREEN,Accuracy,375,33399,Adam Hadwin,Proximity to Hole from Sand,"6' 11""",1st,Canada
+2024-2025,AROUND_GREEN,Accuracy,376,34256,Andrew Putnam,Proximity to Hole from Rough,"6' 7""",1st,United States
+2024-2025,AROUND_GREEN,Accuracy,378,23108,Matt Kuchar,Proximity to Hole from Other Locations,"4' 0""",1st,United States
+2024-2025,AROUND_GREEN,Accuracy,379,36824,Paul Peterson,Proximity to Hole from 30+ yards,"8' 8""",1st,United States
+2024-2025,AROUND_GREEN,Accuracy,380,55789,Taylor Montgomery,Proximity to Hole from 20-30 yards,"6' 8""",1st,United States
+2024-2025,AROUND_GREEN,Accuracy,381,34256,Andrew Putnam,Proximity to Hole from 10-20 yards,"5' 0""",1st,United States
+2024-2025,AROUND_GREEN,Accuracy,382,35461,Beau Hossler,Proximity to Hole from < 10 yards,"2' 1""",1st,United States
+2024-2025,AROUND_GREEN,Accuracy,481,34256,Andrew Putnam,Scrambling Average Distance to Hole,"6' 7""",1st,United States
+2024-2025,AROUND_GREEN,Scoring,466,30911,Tommy Fleetwood,Scrambling > 30 yds (RTP Score),+.632,1st,England
+2024-2025,AROUND_GREEN,Scoring,467,35532,Tom Hoge,Scrambling 20-30 yds (RTP Score),+.289,1st,United States
+2024-2025,AROUND_GREEN,Scoring,468,37378,Min Woo Lee,Scrambling 10-20 yds (RTP Score),+.190,1st,Australia
+2024-2025,AROUND_GREEN,Scoring,464,46046,Scottie Scheffler,Scrambling Rough (RTP Score),+.308,1st,United States
+2024-2025,PUTTING,Putting Leaders,02564,47504,Sam Burns,SG: Putting,0.983,1st,United States
+2024-2025,PUTTING,Putting Leaders,104,57975,Harry Hall,Putting Average,1.677,1st,England
+2024-2025,PUTTING,Putting Leaders,119,57975,Harry Hall,Putts Per Round,27.37,1st,England
+2024-2025,PUTTING,Putting Leaders,413,55789,Taylor Montgomery,One-Putt Percentage,46.26%,1st,United States
+2024-2025,PUTTING,Putting Leaders,426,32102,Rickie Fowler,3-Putt Avoidance,1.44%,1st,United States
+2024-2025,PUTTING,Putting Leaders,484,47504,Sam Burns,Putting Inside 10’,90.85%,1st,United States
+2024-2025,PUTTING,Putting Averages,02428,57975,Harry Hall,Total Putting,27.5,1st,England
+2024-2025,PUTTING,Putting Averages,02439,47993,Denny McCarthy,Bonus Putting,102.86,1st,United States
+2024-2025,PUTTING,Putting Averages,104,57975,Harry Hall,Putting Average,1.677,1st,England
+2024-2025,PUTTING,Putting Averages,402,57975,Harry Hall,Overall Putting Average,1.521,1st,England
+2024-2025,PUTTING,Putting Averages,115,57975,Harry Hall,Birdie or Better Conversion Percentage,37.61%,1st,England
+2024-2025,PUTTING,Putts per Round,119,57975,Harry Hall,Putts Per Round,27.37,1st,England
+2024-2025,PUTTING,Putts per Round,393,57975,Harry Hall,Putts per Round - Round 1,27.04,1st,England
+2024-2025,PUTTING,Putts per Round,394,57366,Cameron Young,Putts per Round - Round 2,27.08,1st,United States
+2024-2025,PUTTING,Putts per Round,395,54607,Danny Walker,Putts per Round - Round 3,26.75,1st,United States
+2024-2025,PUTTING,Putts per Round,396,47995,Davis Riley,Putts per Round - Round 4,27.08,1st,United States
+2024-2025,PUTTING,Putts per Round,398,55789,Taylor Montgomery,1-Putts per Round,8.33,1st,United States
+2024-2025,PUTTING,Putts per Round,399,47679,Victor Perez,2-Putts per Round,11.04,1st,France
+2024-2025,PUTTING,Putts per Round,400,56781,Isaiah Salinda,3-Putts per Round,.87,1st,United States
+2024-2025,PUTTING,Putts per Round,401,39546,Keith Mitchell,3+ Putts per Round,.06,1st,United States
+2024-2025,PUTTING,One-Putts,413,55789,Taylor Montgomery,One-Putt Percentage,46.26%,1st,United States
+2024-2025,PUTTING,One-Putts,414,55789,Taylor Montgomery,One-Putt Percentage - Round 1,47.57%,1st,United States
+2024-2025,PUTTING,One-Putts,415,57366,Cameron Young,One-Putt Percentage - Round 2,49.78%,1st,United States
+2024-2025,PUTTING,One-Putts,416,60067,Joe Highsmith,One-Putt Percentage - Round 3,51.52%,1st,United States
+2024-2025,PUTTING,One-Putts,417,47995,Davis Riley,One-Putt Percentage - Round 4,49.54%,1st,United States
+2024-2025,PUTTING,One-Putts,420,47591,Eric Cole,Total 1 Putts - Inside 5',351,1st,United States
+2024-2025,PUTTING,One-Putts,421,47591,Eric Cole,Total 1 Putts - 5-10',199,1st,United States
+2024-2025,PUTTING,One-Putts,422,47504,Sam Burns,Total 1 Putts - 10-15',88,1st,United States
+2024-2025,PUTTING,One-Putts,423,54591,Ben Griffin,Total 1 Putts - 15-20',42,1st,United States
+2024-2025,PUTTING,One-Putts,424,47993,Denny McCarthy,Total 1 Putts - 20-25',25,1st,United States
+2024-2025,PUTTING,One-Putts,425,57366,Cameron Young,Total 1 Putts - > 25',32,1st,United States
+2024-2025,PUTTING,One-Putts,398,55789,Taylor Montgomery,1-Putts per Round,8.33,1st,United States
+2024-2025,PUTTING,One-Putts,498,54576,Patrick Fishburn,Longest Putts,"105' 8""",1st,United States
+2024-2025,PUTTING,Three-Putts,426,32102,Rickie Fowler,3-Putt Avoidance,1.44%,1st,United States
+2024-2025,PUTTING,Three-Putts,427,57975,Harry Hall,3-Putt Avoidance - Round 1,.67%,1st,England
+2024-2025,PUTTING,Three-Putts,428,31646,Emiliano Grillo,3-Putt Avoidance - Round 2,.76%,1st,Argentina
+2024-2025,PUTTING,Three-Putts,429,34587,Chan Kim,3-Putt Avoidance - Round 3,.51%,1st,United States
+2024-2025,PUTTING,Three-Putts,430,33448,Justin Thomas,3-Putt Avoidance - Round 4,.29%,1st,United States
+2024-2025,PUTTING,Three-Putts,068,52955,Ludvig Åberg,3-Putt Avoidance - Inside 5',0.00%,1st,Sweden
+2024-2025,PUTTING,Three-Putts,069,52955,Ludvig Åberg,3-Putt Avoidance - 5-10',0.00%,1st,Sweden
+2024-2025,PUTTING,Three-Putts,070,52955,Ludvig Åberg,3-Putt Avoidance - 10-15',0.00%,1st,Sweden
+2024-2025,PUTTING,Three-Putts,145,45522,Christiaan Bezuidenhout,3-Putt Avoidance - 15-20',.00%,1st,South Africa
+2024-2025,PUTTING,Three-Putts,146,52955,Ludvig Åberg,3-Putt Avoidance - 20-25',0.00%,1st,Sweden
+2024-2025,PUTTING,Three-Putts,147,32102,Rickie Fowler,3-Putt Avoidance > 25',4.36%,1st,United States
+2024-2025,PUTTING,Three-Putts,441,60004,Jacob Bridgeman,Total 3 Putts - Inside 5',3,1st,United States
+2024-2025,PUTTING,Three-Putts,442,52370,Mason Andersen,Total 3 Putts - 5-10',4,1st,United States
+2024-2025,PUTTING,Three-Putts,443,56781,Isaiah Salinda,Total 3 Putts - 10-15',7,1st,United States
+2024-2025,PUTTING,Three-Putts,444,32839,Hideki Matsuyama,Total 3 Putts - 15-20',8,1st,Japan
+2024-2025,PUTTING,Three-Putts,445,45157,Cam Davis,Total 3 Putts - 20-25',6,1st,Australia
+2024-2025,PUTTING,Three-Putts,446,51696,Rico Hoey,Total 3 Putts - > 25',43,1st,Philippines
+2024-2025,PUTTING,Three-Putts,400,56781,Isaiah Salinda,3-Putts per Round,.87,1st,United States
+2024-2025,PUTTING,Three-Putts,401,39546,Keith Mitchell,3+ Putts per Round,.06,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,408,30911,Tommy Fleetwood,Putting from - > 25',9.72%,1st,England
+2024-2025,PUTTING,All Putts Made by Dist.,02429,29725,Tony Finau,Putting from - > 20',10.83%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,02328,28237,Rory McIlroy,Putting from 15-25',22.09%,1st,Northern Ireland
+2024-2025,PUTTING,All Putts Made by Dist.,407,51349,Nico Echavarria,Putting from - 20-25',22.78%,1st,Colombia
+2024-2025,PUTTING,All Putts Made by Dist.,406,46340,Alex Smalley,Putting from - 15-20',29.57%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,02327,55789,Taylor Montgomery,Putting from 5-15',60.46%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,405,55789,Taylor Montgomery,Putting from - 10-15',43.12%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,484,47504,Sam Burns,Putting - Inside 10',90.85%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,404,55789,Taylor Montgomery,Putting from 5-10',70.05%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,02427,57975,Harry Hall,Putting from 3-5',94.77%,1st,England
+2024-2025,PUTTING,All Putts Made by Dist.,403,50582,Jeremy Paul,Putting from Inside 5',98.60%,1st,Germany
+2024-2025,PUTTING,All Putts Made by Dist.,348,59866,Nick Dunlap,Putting from 10',59.38%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,347,59160,John Pak,Putting from 9',68.57%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,346,55789,Taylor Montgomery,Putting from 8',73.33%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,345,37275,Sam Ryder,Putting from 7',83.93%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,344,47347,Adam Schenk,Putting from 6',85.94%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,343,52453,Nicolai Højgaard,Putting from 5',94.64%,1st,Denmark
+2024-2025,PUTTING,All Putts Made by Dist.,356,57975,Harry Hall,Putting from - > 10',19.47%,1st,England
+2024-2025,PUTTING,All Putts Made by Dist.,485,47504,Sam Burns,Putting from 4-8',77.88%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,342,57364,Michael Thorbjornsen,Putting from 4',98.20%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,341,49590,Frankie Capan III,Putting from 3',100.00%,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,434,47993,Denny McCarthy,Putts Made Per Event Over 10',7.5,1st,United States
+2024-2025,PUTTING,All Putts Made by Dist.,435,47993,Denny McCarthy,Putts Made Per Event Over 20',2.6,1st,United States
+2024-2025,PUTTING,Avg. Putting Dist.,438,57366,Cameron Young,Average Distance of Putts made,"81' 8""",1st,United States
+2024-2025,PUTTING,Avg. Putting Dist.,02440,34256,Andrew Putnam,Average Distance of Birdie putts made,"11' 6""",1st,United States
+2024-2025,PUTTING,Avg. Putting Dist.,02442,52215,Robert MacIntyre,Average Distance of Eagle putts made,"58' 4""",1st,Scotland
+2024-2025,PUTTING,Avg. Putting Dist.,135,60004,Jacob Bridgeman,Putts made Distance,55,1st,United States
+2024-2025,PUTTING,Avg. Putting Dist.,349,51997,Andrew Novak,Approach Putt Performance,"1' 11""",1st,United States
+2024-2025,PUTTING,Avg. Putting Dist.,409,45522,Christiaan Bezuidenhout,Average Putting Distance - All 1 putts,"8' 2""",1st,South Africa
+2024-2025,PUTTING,Avg. Putting Dist.,410,47679,Victor Perez,Average Putting Distance - All 2 putts,"25' 3""",1st,France
+2024-2025,PUTTING,Avg. Putting Dist.,411,47917,Takumi Kanaya,Average Putting Distance - All 3 putts,"50' 4""",1st,Japan
+2024-2025,PUTTING,Avg. Putting Dist.,389,34256,Andrew Putnam,Average Putting Distance - GIR 1 Putts,"12' 1""",1st,United States
+2024-2025,PUTTING,Avg. Putting Dist.,390,48887,Matt Wallace,Average Putting Distance - GIR 2 Putts,"27' 10""",1st,England
+2024-2025,PUTTING,Avg. Putting Dist.,391,47917,Takumi Kanaya,Average Putting Distance - GIR 3 Putts,"52' 8""",1st,Japan
+2024-2025,PUTTING,GIR Putts Made by Dist.,073,47591,Eric Cole,GIR Putting Avg - > 35',8.44%,1st,United States
+2024-2025,PUTTING,GIR Putts Made by Dist.,072,30911,Tommy Fleetwood,GIR Putting Avg - 30-35',15.52%,1st,England
+2024-2025,PUTTING,GIR Putts Made by Dist.,071,28237,Rory McIlroy,GIR Putting Avg - 25-30',20.75%,1st,Northern Ireland
+2024-2025,PUTTING,GIR Putts Made by Dist.,388,30911,Tommy Fleetwood,GIR Putting - > 25',9.40%,1st,England
+2024-2025,PUTTING,GIR Putts Made by Dist.,387,51349,Nico Echavarria,GIR Putting - 20-25',23.61%,1st,Colombia
+2024-2025,PUTTING,GIR Putts Made by Dist.,386,28237,Rory McIlroy,GIR Putting - 15-20',31.25%,1st,Northern Ireland
+2024-2025,PUTTING,GIR Putts Made by Dist.,385,52144,Braden Thornberry,GIR Putting - 10-15',45.83%,1st,United States
+2024-2025,SCORING,Scoring Leaders,02675,46046,Scottie Scheffler,SG: Total,2.743,1st,United States
+2024-2025,SCORING,Scoring Leaders,120,46046,Scottie Scheffler,Scoring Average (Adjusted),68.131,1st,United States
+2024-2025,SCORING,Scoring Leaders,156,46046,Scottie Scheffler,Birdie Average,4.70,1st,United States
+2024-2025,SCORING,Scoring Leaders,352,46046,Scottie Scheffler,Birdie or Better Percentage,27.08%,1st,United States
+2024-2025,SCORING,Scoring Leaders,02414,46046,Scottie Scheffler,Bogey Avoidance,10.56%,1st,United States
+2024-2025,SCORING,Scoring Leaders,142,46646,Antoine Rozner,Par 3 Scoring Average,2.96,1st,France
+2024-2025,SCORING,Scoring Leaders,143,46046,Scottie Scheffler,Par 4 Scoring Average,3.89,1st,United States
+2024-2025,SCORING,Scoring Leaders,144,46046,Scottie Scheffler,Par 5 Scoring Average,4.44,1st,United States
+2024-2025,SCORING,Scoring Overall,120,46046,Scottie Scheffler,Scoring Average (Adjusted),68.131,1st,United States
+2024-2025,SCORING,Scoring Overall,108,46046,Scottie Scheffler,Scoring Average (Actual),67.99,1st,United States
+2024-2025,SCORING,Scoring Overall,116,46046,Scottie Scheffler,Scoring Average Before Cut,67.73,1st,United States
+2024-2025,SCORING,Scoring Overall,02417,46046,Scottie Scheffler,Stroke Differential Field Average,+2.82,1st,United States
+2024-2025,SCORING,Scoring Overall,299,47420,Jake Knapp,Lowest Round,59,1st,United States
+2024-2025,SCORING,Scoring Overall,152,57975,Harry Hall,Rounds in the 60s,60,1st,England
+2024-2025,SCORING,Scoring Overall,153,57975,Harry Hall,Sub-Par Rounds,71,1st,England
+2024-2025,SCORING,Under Par Scoring,156,46046,Scottie Scheffler,Birdie Average,4.70,1st,United States
+2024-2025,SCORING,Under Par Scoring,107,57975,Harry Hall,Total Birdies,429,1st,England
+2024-2025,SCORING,Under Par Scoring,155,38991,Alejandro Tosti,Eagles (Holes per),66.9,1st,Argentina
+2024-2025,SCORING,Under Par Scoring,106,39971,Sungjae Im,Total Eagles,15,1st,Republic of Korea
+2024-2025,SCORING,Under Par Scoring,105,46046,Scottie Scheffler,Par Breakers,27.08%,1st,United States
+2024-2025,SCORING,Under Par Scoring,160,46046,Scottie Scheffler,Bounce Back,36.36%,1st,United States
+2024-2025,SCORING,Under Par Scoring,02415,46046,Scottie Scheffler,Birdie to Bogey Ratio,2.57,1st,United States
+2024-2025,SCORING,Under Par Scoring,112,51349,Nico Echavarria,Par 3 Birdie or Better Leaders,20.67%,1st,Colombia
+2024-2025,SCORING,Under Par Scoring,113,46046,Scottie Scheffler,Par 4 Birdie or Better Leaders,23.16%,1st,United States
+2024-2025,SCORING,Under Par Scoring,114,52453,Nicolai Højgaard,Par 5 Birdie or Better Leaders,62.33%,1st,Denmark
+2024-2025,SCORING,Under Par Scoring,447,34076,Joel Dahmen,Par 4 Eagle Leaders,4,1st,United States
+2024-2025,SCORING,Under Par Scoring,448,38991,Alejandro Tosti,Par 5 Eagle Leaders,14,1st,Argentina
+2024-2025,SCORING,Under Par Scoring,352,46046,Scottie Scheffler,Birdie or Better Percentage,27.08%,1st,United States
+2024-2025,SCORING,Under Par Scoring,357,52453,Nicolai Højgaard,Birdie or Better Percentage - 200+ yards,44.12%,1st,Denmark
+2024-2025,SCORING,Under Par Scoring,358,40250,Taylor Pendrith,Birdie or Better Percentage - 175-200 yards,20.00%,1st,Canada
+2024-2025,SCORING,Under Par Scoring,359,46717,Viktor Hovland,Birdie or Better Percentage - 150-175 yards,22.35%,1st,Norway
+2024-2025,SCORING,Under Par Scoring,360,36824,Paul Peterson,Birdie or Better Percentage - 125-150 yards,29.29%,1st,United States
+2024-2025,SCORING,Under Par Scoring,361,57975,Harry Hall,Birdie or Better Percentage - < 125 yards,33.62%,1st,England
+2024-2025,SCORING,Under Par Scoring,02333,46046,Scottie Scheffler,Birdie or Better Percentage - Fairway,28.62%,1st,United States
+2024-2025,SCORING,Under Par Scoring,02334,47988,Nick Hardy,Birdie or Better Percentage - Left Rough,32.53%,1st,United States
+2024-2025,SCORING,Under Par Scoring,02335,27064,Jhonattan Vegas,Birdie or Better Percentage - Right Rough,26.26%,1st,Venezuela
+2024-2025,SCORING,Under Par Scoring,02336,47988,Nick Hardy,Birdie or Better Percentage - Rough,25.79%,1st,United States
+2024-2025,SCORING,Over Par Scoring,02414,46046,Scottie Scheffler,Bogey Avoidance,10.56%,1st,United States
+2024-2025,SCORING,Over Par Scoring,02415,46046,Scottie Scheffler,Birdie to Bogey Ratio,2.57,1st,United States
+2024-2025,SCORING,Over Par Scoring,02416,30911,Tommy Fleetwood,Reverse Bounce Back,8.94%,1st,England
+2024-2025,SCORING,Over Par Scoring,02419,46046,Scottie Scheffler,Bogey Average,1.73,1st,United States
+2024-2025,SCORING,Scoring by Round,118,46046,Scottie Scheffler,Final Round Scoring Average,68.10,1st,United States
+2024-2025,SCORING,Scoring by Round,219,46046,Scottie Scheffler,Final Round Performance,85.00%,1st,United States
+2024-2025,SCORING,Scoring by Round,220,33948,Byeong Hun An,Top 10 Final Round Performance,100.0%,1st,Republic of Korea
+2024-2025,SCORING,Scoring by Round,309,40026,Daniel Berger,Top 5 Final Round Performance,100.0,1st,United States
+2024-2025,SCORING,Scoring by Round,310,40026,Daniel Berger,11-25 Final Round Performance,100.0,1st,United States
+2024-2025,SCORING,Scoring by Round,311,59095,Chris Gotterup,25+ Final Round Performance,100.0,1st,United States
+2024-2025,SCORING,Scoring by Round,453,33948,Byeong Hun An,6-10 Final Round Performance,100.0,1st,Republic of Korea
+2024-2025,SCORING,Scoring by Round,148,46046,Scottie Scheffler,Round 1 Scoring Average,67.45,1st,United States
+2024-2025,SCORING,Scoring by Round,149,46046,Scottie Scheffler,Round 2 Scoring Average,68.00,1st,United States
+2024-2025,SCORING,Scoring by Round,117,46046,Scottie Scheffler,Round 3 Scoring Average,68.40,1st,United States
+2024-2025,SCORING,Scoring by Round,285,46046,Scottie Scheffler,Round 4 Scoring Average,68.10,1st,United States
+2024-2025,SCORING,Scoring by Round,245,46046,Scottie Scheffler,Front 9 Round 1 Scoring Average,33.35,1st,United States
+2024-2025,SCORING,Scoring by Round,246,54628,Lee Hodges,Back 9 Round 1 Scoring Average,33.94,1st,United States
+2024-2025,SCORING,Scoring by Round,253,46046,Scottie Scheffler,Front 9 Round 2 Scoring Average,33.65,1st,United States
+2024-2025,SCORING,Scoring by Round,254,28237,Rory McIlroy,Back 9 Round 2 Scoring Average,33.60,1st,Northern Ireland
+2024-2025,SCORING,Scoring by Round,261,27129,Luke List,Front 9 Round 3 Scoring Average,33.30,1st,United States
+2024-2025,SCORING,Scoring by Round,269,32839,Hideki Matsuyama,Front 9 Round 4 Scoring Average,33.74,1st,Japan
+2024-2025,SCORING,"Par 3,4,5 Scoring",171,46646,Antoine Rozner,Par 3 Performance,-10,1st,France
+2024-2025,SCORING,"Par 3,4,5 Scoring",142,46646,Antoine Rozner,Par 3 Scoring Average,2.96,1st,France
+2024-2025,SCORING,"Par 3,4,5 Scoring",112,51349,Nico Echavarria,Par 3 Birdie or Better Leaders,20.67%,1st,Colombia
+2024-2025,SCORING,"Par 3,4,5 Scoring",172,46046,Scottie Scheffler,Par 4 Performance,-93,1st,United States
+2024-2025,SCORING,"Par 3,4,5 Scoring",143,46046,Scottie Scheffler,Par 4 Scoring Average,3.89,1st,United States
+2024-2025,SCORING,"Par 3,4,5 Scoring",113,46046,Scottie Scheffler,Par 4 Birdie or Better Leaders,23.16%,1st,United States
+2024-2025,SCORING,"Par 3,4,5 Scoring",173,54591,Ben Griffin,Par 5 Performance,-143,1st,United States
+2024-2025,SCORING,"Par 3,4,5 Scoring",144,46046,Scottie Scheffler,Par 5 Scoring Average,4.44,1st,United States
+2024-2025,SCORING,"Par 3,4,5 Scoring",448,38991,Alejandro Tosti,Par 5 Eagle Leaders,14,1st,Argentina
+2024-2025,SCORING,"Par 3,4,5 Scoring",114,52453,Nicolai Højgaard,Par 5 Birdie or Better Leaders,62.33%,1st,Denmark
+2024-2025,SCORING,Front 9 Scoring,207,46046,Scottie Scheffler,Front 9 Scoring Average,33.71,1st,United States
+2024-2025,SCORING,Front 9 Scoring,301,48117,Kurt Kitayama,Front 9 Lowest Round,28,1st,United States
+2024-2025,SCORING,Front 9 Scoring,245,46046,Scottie Scheffler,Front 9 Round 1 Scoring Average,33.35,1st,United States
+2024-2025,SCORING,Front 9 Scoring,253,46046,Scottie Scheffler,Front 9 Round 2 Scoring Average,33.65,1st,United States
+2024-2025,SCORING,Front 9 Scoring,261,27129,Luke List,Front 9 Round 3 Scoring Average,33.30,1st,United States
+2024-2025,SCORING,Front 9 Scoring,269,32839,Hideki Matsuyama,Front 9 Round 4 Scoring Average,33.74,1st,Japan
+2024-2025,SCORING,Back 9 Scoring,208,46046,Scottie Scheffler,Back 9 Scoring Average,34.28,1st,United States
+2024-2025,SCORING,Back 9 Scoring,302,52370,Mason Andersen,Back 9 Lowest Round,29,1st,United States
+2024-2025,SCORING,Back 9 Scoring,246,54628,Lee Hodges,Back 9 Round 1 Scoring Average,33.94,1st,United States
+2024-2025,SCORING,Back 9 Scoring,254,28237,Rory McIlroy,Back 9 Round 2 Scoring Average,33.60,1st,Northern Ireland
+2024-2025,SCORING,Back 9 Scoring,262,49960,Sepp Straka,Back 9 Round 3 Scoring Average,33.59,1st,Austria
+2024-2025,SCORING,Back 9 Scoring,270,22405,Justin Rose,Back 9 Round 4 Scoring Average,33.73,1st,England
+2024-2025,SCORING,Early Scoring,292,46046,Scottie Scheffler,Early Scoring Average,67.68,1st,United States
+2024-2025,SCORING,Early Scoring,303,47420,Jake Knapp,Early Lowest Round,59,1st,United States
+2024-2025,SCORING,Early Scoring,209,46046,Scottie Scheffler,First Tee Early Scoring Average,68.00,1st,United States
+2024-2025,SCORING,Early Scoring,210,46414,Aaron Rai,Tenth Tee Early Scoring Average,65.83,1st,England
+2024-2025,SCORING,Early Scoring,247,39546,Keith Mitchell,Early Round 1 Scoring Average,67.38,1st,United States
+2024-2025,SCORING,Early Scoring,255,52453,Nicolai Højgaard,Early Round 2 Scoring Average,67.50,1st,Denmark
+2024-2025,SCORING,Early Scoring,263,55789,Taylor Montgomery,Early Round 3 Scoring Average,65.33,1st,United States
+2024-2025,SCORING,Early Scoring,271,35310,Lanto Griffin,Early Round 4 Scoring Average,67.00,1st,United States
+2024-2025,SCORING,Early Scoring,249,39546,Keith Mitchell,First Tee Early Round 1 Scoring Average,65.33,1st,United States
+2024-2025,SCORING,Early Scoring,250,51696,Rico Hoey,Tenth Tee Early Round 1 Scoring Average,65.00,1st,Philippines
+2024-2025,SCORING,Early Scoring,257,46340,Alex Smalley,First Tee Early Round 2 Scoring Average,66.40,1st,United States
+2024-2025,SCORING,Early Scoring,258,46414,Aaron Rai,Tenth Tee Early Round 2 Scoring Average,64.00,1st,England
+2024-2025,SCORING,Early Scoring,265,55789,Taylor Montgomery,First Tee Early Round 3 Scoring Average,65.33,1st,United States
+2024-2025,SCORING,Early Scoring,266,46442,Maverick McNealy,Tenth Tee Early Round 3 Scoring Average,63.00,1st,United States
+2024-2025,SCORING,Early Scoring,273,39997,Corey Conners,First Tee Early Round 4 Scoring Average,67.00,1st,Canada
+2024-2025,SCORING,Early Scoring,274,24502,Adam Scott,Tenth Tee Early Round 4 Scoring Average,64.00,1st,Australia
+2024-2025,SCORING,Early Scoring,305,47420,Jake Knapp,First Tee Early Lowest Round,59,1st,United States
+2024-2025,SCORING,Early Scoring,306,34076,Joel Dahmen,Tenth Tee Early Lowest Round,61,1st,United States
+2024-2025,SCORING,Late Scoring,293,46046,Scottie Scheffler,Late Scoring Average,68.10,1st,United States
+2024-2025,SCORING,Late Scoring,304,39859,Cristobal Del Solar,Late Lowest Round,61,1st,Chile
+2024-2025,SCORING,Late Scoring,248,46046,Scottie Scheffler,Late Round 1 Scoring Average,67.42,1st,United States
+2024-2025,SCORING,Late Scoring,256,57364,Michael Thorbjornsen,Late Round 2 Scoring Average,67.60,1st,United States
+2024-2025,SCORING,Late Scoring,264,46443,Brian Campbell,Late Round 3 Scoring Average,66.67,1st,United States
+2024-2025,SCORING,Late Scoring,272,47917,Takumi Kanaya,Late Round 4 Scoring Average,67.00,1st,Japan
+2024-2025,SCORING,Late Scoring,211,46046,Scottie Scheffler,First Tee Late Scoring Average,68.10,1st,United States
+2024-2025,SCORING,Late Scoring,212,52955,Ludvig Åberg,Tenth Tee Late Scoring Average,66.00,1st,Sweden
+2024-2025,SCORING,Late Scoring,251,29535,Brice Garnett,First Tee Late Round 1 Scoring Average,66.00,1st,United States
+2024-2025,SCORING,Late Scoring,252,56630,Akshay Bhatia,Tenth Tee Late Round 1 Scoring Average,63.00,1st,United States
+2024-2025,SCORING,Late Scoring,259,57123,Steven Fisk,First Tee Late Round 2 Scoring Average,67.67,1st,United States
+2024-2025,SCORING,Late Scoring,260,32102,Rickie Fowler,Tenth Tee Late Round 2 Scoring Average,66.50,1st,United States
+2024-2025,SCORING,Late Scoring,267,27129,Luke List,First Tee Late Round 3 Scoring Average,66.50,1st,United States
+2024-2025,SCORING,Late Scoring,268,45522,Christiaan Bezuidenhout,Tenth Tee Late Round 3 Scoring Average,63.00,1st,South Africa
+2024-2025,SCORING,Late Scoring,275,40006,Erik van Rooyen,First Tee Late Round 4 Scoring Average,63.00,1st,South Africa
+2024-2025,SCORING,Late Scoring,276,32839,Hideki Matsuyama,Tenth Tee Late Round 4 Scoring Average,65.00,1st,Japan
+2024-2025,SCORING,Late Scoring,307,39859,Cristobal Del Solar,First Tee Late Lowest Round,61,1st,Chile
+2024-2025,SCORING,Late Scoring,308,39546,Keith Mitchell,Tenth Tee Late Lowest Round,61,1st,United States
+2024-2025,SCORING,Scoring Off the 1st Tee,209,46046,Scottie Scheffler,First Tee Early Scoring Average,68.00,1st,United States
+2024-2025,SCORING,Scoring Off the 1st Tee,211,46046,Scottie Scheffler,First Tee Late Scoring Average,68.10,1st,United States
+2024-2025,SCORING,Scoring Off the 1st Tee,249,39546,Keith Mitchell,First Tee Early Round 1 Scoring Average,65.33,1st,United States
+2024-2025,SCORING,Scoring Off the 1st Tee,251,29535,Brice Garnett,First Tee Late Round 1 Scoring Average,66.00,1st,United States
+2024-2025,SCORING,Scoring Off the 1st Tee,257,46340,Alex Smalley,First Tee Early Round 2 Scoring Average,66.40,1st,United States
+2024-2025,SCORING,Scoring Off the 1st Tee,259,57123,Steven Fisk,First Tee Late Round 2 Scoring Average,67.67,1st,United States
+2024-2025,SCORING,Scoring Off the 1st Tee,265,55789,Taylor Montgomery,First Tee Early Round 3 Scoring Average,65.33,1st,United States
+2024-2025,SCORING,Scoring Off the 1st Tee,267,27129,Luke List,First Tee Late Round 3 Scoring Average,66.50,1st,United States
+2024-2025,SCORING,Scoring Off the 1st Tee,273,39997,Corey Conners,First Tee Early Round 4 Scoring Average,67.00,1st,Canada
+2024-2025,SCORING,Scoring Off the 1st Tee,275,40006,Erik van Rooyen,First Tee Late Round 4 Scoring Average,63.00,1st,South Africa
+2024-2025,SCORING,Scoring Off the 1st Tee,305,47420,Jake Knapp,First Tee Early Lowest Round,59,1st,United States
+2024-2025,SCORING,Scoring Off the 1st Tee,307,39859,Cristobal Del Solar,First Tee Late Lowest Round,61,1st,Chile
+2024-2025,SCORING,Scoring Off the 10th Tee,210,46414,Aaron Rai,Tenth Tee Early Scoring Average,65.83,1st,England
+2024-2025,SCORING,Scoring Off the 10th Tee,212,52955,Ludvig Åberg,Tenth Tee Late Scoring Average,66.00,1st,Sweden
+2024-2025,SCORING,Scoring Off the 10th Tee,250,51696,Rico Hoey,Tenth Tee Early Round 1 Scoring Average,65.00,1st,Philippines
+2024-2025,SCORING,Scoring Off the 10th Tee,252,56630,Akshay Bhatia,Tenth Tee Late Round 1 Scoring Average,63.00,1st,United States
+2024-2025,SCORING,Scoring Off the 10th Tee,258,46414,Aaron Rai,Tenth Tee Early Round 2 Scoring Average,64.00,1st,England
+2024-2025,SCORING,Scoring Off the 10th Tee,260,32102,Rickie Fowler,Tenth Tee Late Round 2 Scoring Average,66.50,1st,United States
+2024-2025,SCORING,Scoring Off the 10th Tee,266,46442,Maverick McNealy,Tenth Tee Early Round 3 Scoring Average,63.00,1st,United States
+2024-2025,SCORING,Scoring Off the 10th Tee,268,45522,Christiaan Bezuidenhout,Tenth Tee Late Round 3 Scoring Average,63.00,1st,South Africa
+2024-2025,SCORING,Scoring Off the 10th Tee,274,24502,Adam Scott,Tenth Tee Early Round 4 Scoring Average,64.00,1st,Australia
+2024-2025,SCORING,Scoring Off the 10th Tee,276,32839,Hideki Matsuyama,Tenth Tee Late Round 4 Scoring Average,65.00,1st,Japan
+2024-2025,SCORING,Scoring Off the 10th Tee,306,34076,Joel Dahmen,Tenth Tee Early Lowest Round,61,1st,United States
+2024-2025,SCORING,Scoring Off the 10th Tee,308,39546,Keith Mitchell,Tenth Tee Late Lowest Round,61,1st,United States

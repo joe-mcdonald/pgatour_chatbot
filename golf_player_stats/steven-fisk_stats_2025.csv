@@ -1,133 +1,134 @@
 Stat Title,Value,Rank,Above/Below,Supporting Stat,Supporting Value
-SG: Total,0.208,79,EVEN,Total SG:T: 7.904,Measured Rounds: 38
-SG: Tee-to-Green,0.749,27,EVEN,SG:OTT: 0.415,Measured Rounds: 38
-SG: Off-the-Tee,0.415,20,EVEN,Total SG:OTT: 15.786,Measured Rounds: 38
-SG: Approach the Green,0.290,43,EVEN,Total SG:APP: 11.033,Measured Rounds: 38
-SG: Around-the-Green,0.043,82,EVEN,Total SG:ARG: 1.635,Measured Rounds: 38
-SG: Putting,-0.541,161,EVEN,Total SG:Putting: -20.549,Measured Rounds: 38
-Longest Drives,382,99,EVEN,Tournament: Charles Schwab,Round: 4
-Driving Distance,311.0,22,EVEN,"Total Distance: 29,238",Total Drives: 94
-Driving Distance - All Drives,298.3,36,EVEN,"Total Distance: 155,696",# of Drives: 522
-Driving Accuracy Percentage,60.96%,66,EVEN,Fairways Hit: 395,Possible Fairways: 648
-Left Rough Tendency,14.40%,116,EVEN,Total Left rough: 75,Possible Fwys: 521
-Right Rough Tendency,15.16%,73,EVEN,Total Right rough: 79,Possible Fwys: 521
-Distance from Edge of Fairway,25' 3,45,EVEN,"Total Distance (Feet): 5,258.667",Total Strokes: 208
-Club Head Speed,116.17,90,EVEN,"Total Club Head Speed: 19,981.01",Total Attempts: 172
-Total Driving Efficiency,17,6,EVEN,: ,Carry Efficiency Rank: 13
-Greens in Regulation Percentage,71.28%,2,EVEN,Greens Hit: 603,# Holes: 846
-Proximity to Hole,36' 7,45,EVEN,"Total Distance (feet): 24,893.333",# of Attempts: 680
-Approaches from > 275 yards,67' 2,14,EVEN,Total Distance (feet): 672.000,# of Attempts: 10
-Approaches from 250-275 yards,60' 3,66,EVEN,Total Distance (feet): 963.417,# of Attempts: 16
-Approaches from 225-250 yards,46' 5,27,EVEN,"Total Distance (feet): 1,391.500",# of Attempts: 30
-Approaches from 200-225 yards,46' 7,161,EVEN,"Total Distance (feet): 2,886.250",# of Attempts: 62
-Approaches from > 200 yards,50' 1,50,EVEN,"Total Distance (feet): 5,913.167",# of Attempts: 118
-Approaches from 175-200 yards,34' 4,100,EVEN,"Total Distance (feet): 3,363.917",# of Attempts: 98
-Approaches from 150-175 yards,31' 6,162,EVEN,"Total Distance (feet): 3,216.417",# of Attempts: 102
-Approaches from 125-150 yards,26' 0,158,EVEN,"Total Distance (feet): 1,846.833",# of Attempts: 71
-Approaches from 50-125 yards,17' 9,47,EVEN,"Total Distance (feet): 1,689.333",# of Attempts: 95
-Approaches from 100-125 yards,18' 11,49,EVEN,Total Distance (feet): 983.500,# of Attempts: 52
-Approaches from 75-100 yards,14' 2,11,EVEN,Total Distance (feet): 410.500,# of Attempts: 29
-Approaches from 50-75 yards,21' 1,153,EVEN,Total Distance (feet): 295.333,# of Attempts: 14
-Approaches from inside 100 yards,16' 10,78,EVEN,Total Distance (feet): 755.750,# of Attempts: 45
-Approaches from > 100 yards,34' 9,107,EVEN,"Total Distance (feet): 15,323.833",# of Attempts: 441
-Fairway Proximity,33' 1,101,EVEN,: ,Attempts: 486
-Rough Proximity,43' 4,44,EVEN,"Total Distance (inches): 75,328",Attempts: 145
-Left Rough Proximity,40' 7,24,EVEN,: ,Attempts: 66
-Right Rough Proximity,45' 7,92,EVEN,: ,Attempts: 79
-Approaches from > 275 yards (Rgh),69' 3,18,EVEN,Total Distance (feet): 276.917,# of Attempts: 4
-Approaches from 250-275 yards (Rgh),76' 2,83,EVEN,Total Distance (feet): 228.417,# of Attempts: 3
-Approaches from 225-250 yards (Rgh),87' 3,154,EVEN,Total Distance (feet): 611.000,# of Attempts: 7
-Approaches from 200-225 yards (Rgh),61' 0,65,EVEN,Total Distance (feet): 854.417,# of Attempts: 14
-Approaches from > 100 yards (Rgh),45' 1,23,EVEN,"Total Distance (feet): 5,723.583",# of Attempts: 127
-Approaches from inside 100 yards (Rgh),30' 9,160,EVEN,Total Distance (feet): 553.750,# of Attempts: 18
-Approaches from > 200 yards (Rgh),70' 5,64,EVEN,"Total Distance (feet): 1,970.750",# of Attempts: 28
-Approaches from 175-200 yards (Rgh),46' 0,38,EVEN,"Total Distance (feet): 1,011.833",# of Attempts: 22
-Approaches from 150-175 yards (Rgh),38' 5,16,EVEN,Total Distance (feet): 844.417,# of Attempts: 22
-Approaches from 125-150 yards (Rgh),39' 3,117,EVEN,"Total Distance (feet): 1,414.250",# of Attempts: 36
-Approaches from 50-125 yards (Rgh),28' 5,97,EVEN,"Total Distance (feet): 1,022.750",# of Attempts: 36
-Approaches from 100-125 yards (Rgh),25' 5,22,EVEN,Total Distance (feet): 482.333,# of Attempts: 19
-Approaches from 75-100 yards (Rgh),30' 9,142,EVEN,Total Distance (feet): 368.750,# of Attempts: 12
-Approaches from 50-75 yards (Rgh),34' 4,159,EVEN,Total Distance (feet): 171.667,# of Attempts: 5
-Going for the Green,59.71%,83,EVEN,Attempts: 83,Non-Attempts: 56
-Going for the Green - Hit Green Pct.,38.10%,2,EVEN,Successes: 32,Attempts: 84
-Going for the Green - Birdie or Better,61.90%,53,EVEN,# of Birdie or Better: 52,Attempts: 84
-Total Hole Outs,12,61,EVEN,: ,: 
-Longest Hole Outs (in yards),194,10,EVEN,Tournament: Valspar,Round- Course: 2
-Scrambling,59.26%,103,EVEN,Par or Better: 144,Missed GIR: 243
-Scrambling from the Rough,54.95%,112,EVEN,Successes: 50,Attempts: 91
+SG: Total,0.154,86,EVEN,Total SG:T: 8.636,Measured Rounds: 56
+SG: Tee-to-Green,0.729,24,EVEN,SG:OTT: 0.412,Measured Rounds: 56
+SG: Off-the-Tee,0.412,19,EVEN,Total SG:OTT: 23.076,Measured Rounds: 56
+SG: Approach the Green,0.225,56,EVEN,Total SG:APP: 12.615,Measured Rounds: 56
+SG: Around-the-Green,0.092,62,EVEN,Total SG:ARG: 5.125,Measured Rounds: 56
+SG: Putting,-0.575,160,EVEN,Total SG:Putting: -32.180,Measured Rounds: 56
+Longest Drives,393,78,EVEN,Tournament: John Deere,Round: 2
+Driving Distance,313.2,21,EVEN,"Total Distance: 40,710",Total Drives: 130
+Driving Distance - All Drives,298.9,33,EVEN,"Total Distance: 231,344",# of Drives: 774
+Driving Accuracy Percentage,59.78%,81,EVEN,Fairways Hit: 538,Possible Fairways: 900
+Left Rough Tendency,15.54%,125,EVEN,Total Left rough: 120,Possible Fwys: 772
+Right Rough Tendency,15.03%,83,EVEN,Total Right rough: 116,Possible Fwys: 772
+Distance from Edge of Fairway,25' 1,46,EVEN,"Total Distance (Feet): 7,825.333",Total Strokes: 312
+Club Head Speed,116.55,82,EVEN,"Total Club Head Speed: 29,954.15",Total Attempts: 257
+Total Driving Efficiency,33,14,EVEN,: ,Carry Efficiency Rank: 28
+Greens in Regulation Percentage,71.11%,8,EVEN,Greens Hit: 832,"# Holes: 1,170"
+Proximity to Hole,36' 1,41,EVEN,"Total Distance (feet): 36,150.250","# of Attempts: 1,003"
+Approaches from > 275 yards,62' 8,6,EVEN,Total Distance (feet): 815.000,# of Attempts: 13
+Approaches from 250-275 yards,62' 4,84,EVEN,"Total Distance (feet): 1,495.167",# of Attempts: 24
+Approaches from 225-250 yards,44' 3,10,EVEN,"Total Distance (feet): 1,948.417",# of Attempts: 44
+Approaches from 200-225 yards,43' 10,139,EVEN,"Total Distance (feet): 3,859.083",# of Attempts: 88
+Approaches from > 200 yards,48' 0,37,EVEN,"Total Distance (feet): 8,117.667",# of Attempts: 169
+Approaches from 175-200 yards,34' 2,105,EVEN,"Total Distance (feet): 4,889.667",# of Attempts: 143
+Approaches from 150-175 yards,31' 5,156,EVEN,"Total Distance (feet): 4,425.500",# of Attempts: 141
+Approaches from 125-150 yards,25' 6,151,EVEN,"Total Distance (feet): 2,323.000",# of Attempts: 91
+Approaches from 50-125 yards,17' 6,37,EVEN,"Total Distance (feet): 2,979.083",# of Attempts: 170
+Approaches from 100-125 yards,19' 11,100,EVEN,"Total Distance (feet): 1,794.083",# of Attempts: 90
+Approaches from 75-100 yards,13' 9,4,EVEN,Total Distance (feet): 770.167,# of Attempts: 56
+Approaches from 50-75 yards,17' 3,113,EVEN,Total Distance (feet): 414.833,# of Attempts: 24
+Approaches from inside 100 yards,14' 11,24,EVEN,"Total Distance (feet): 1,239.833",# of Attempts: 83
+Approaches from > 100 yards,34' 0,102,EVEN,"Total Distance (feet): 21,549.917",# of Attempts: 634
+Fairway Proximity,31' 9,66,EVEN,: ,Attempts: 717
+Rough Proximity,44' 2,57,EVEN,"Total Distance (inches): 115,485",Attempts: 218
+Left Rough Proximity,41' 8,31,EVEN,: ,Attempts: 103
+Right Rough Proximity,46' 4,101,EVEN,: ,Attempts: 115
+Approaches from > 275 yards (Rgh),73' 6,17,EVEN,Total Distance (feet): 367.333,# of Attempts: 5
+Approaches from 250-275 yards (Rgh),90' 10,135,EVEN,Total Distance (feet): 454.167,# of Attempts: 5
+Approaches from 225-250 yards (Rgh),87' 3,148,EVEN,Total Distance (feet): 611.000,# of Attempts: 7
+Approaches from 200-225 yards (Rgh),60' 10,53,EVEN,"Total Distance (feet): 1,215.917",# of Attempts: 20
+Approaches from > 100 yards (Rgh),47' 5,58,EVEN,"Total Distance (feet): 8,681.417",# of Attempts: 183
+Approaches from inside 100 yards (Rgh),26' 11,110,EVEN,Total Distance (feet): 942.333,# of Attempts: 35
+Approaches from > 200 yards (Rgh),71' 7,77,EVEN,"Total Distance (feet): 2,648.417",# of Attempts: 37
+Approaches from 175-200 yards (Rgh),56' 7,124,EVEN,"Total Distance (feet): 1,810.583",# of Attempts: 32
+Approaches from 150-175 yards (Rgh),38' 11,13,EVEN,"Total Distance (feet): 1,168.583",# of Attempts: 30
+Approaches from 125-150 yards (Rgh),41' 8,140,EVEN,"Total Distance (feet): 2,251.000",# of Attempts: 54
+Approaches from 50-125 yards (Rgh),27' 5,53,EVEN,"Total Distance (feet): 1,728.500",# of Attempts: 63
+Approaches from 100-125 yards (Rgh),26' 9,19,EVEN,Total Distance (feet): 802.833,# of Attempts: 30
+Approaches from 75-100 yards (Rgh),25' 3,66,EVEN,Total Distance (feet): 656.833,# of Attempts: 26
+Approaches from 50-75 yards (Rgh),38' 5,157,EVEN,Total Distance (feet): 268.833,# of Attempts: 7
+Going for the Green,62.31%,60,EVEN,Attempts: 124,Non-Attempts: 75
+Going for the Green - Hit Green Pct.,33.60%,5,EVEN,Successes: 42,Attempts: 125
+Going for the Green - Birdie or Better,56.00%,139,EVEN,# of Birdie or Better: 70,Attempts: 125
+Total Hole Outs,16,49,EVEN,: ,: 
+Longest Hole Outs (in yards),194,14,EVEN,Tournament: Valspar,Round- Course: 2
+Scrambling,58.28%,110,EVEN,Par or Better: 197,Missed GIR: 338
+Scrambling from the Rough,55.38%,98,EVEN,Successes: 72,Attempts: 130
 Scrambling from the Fringe,-,-,EVEN,,
-Scrambling from > 30 yards,20.69%,152,EVEN,Successes: 6,Attempts: 29
-Scrambling from 20-30 yards,55.56%,62,EVEN,Successes: 25,Attempts: 45
-Scrambling from 10-20 yards,65.26%,95,EVEN,Successes: 62,Attempts: 95
-Scrambling from < 10 yards,84.21%,126,EVEN,Successes: 32,Attempts: 38
-Sand Save Percentage,52.46%,146,EVEN,# Saves: 32,# Bunkers: 61
-Proximity to Hole from Sand,10' 1,129,EVEN,Total Distance (feet): 422.167,# of Shots: 42
-Total Putting,270.2,156,EVEN,: ,: 
-Putting Average,1.808,167,EVEN,"GIR Putts: 1,090",Greens Hit: 603
-Overall Putting Average,1.667,169,EVEN,"# of Putts: 1,410",# of Holes: 846
-Birdie or Better Conversion Percentage,26.96%,170,EVEN,# Birdies: 162,Greens Hit: 601
-Putts Per Round,30.00,169,EVEN,"Total Putts: 1,410",Total Rounds: 47
-Putts per Round - Round 1,30.80,171,EVEN,Total Putts: 462,Total Rounds: 15
-Putts per Round - Round 2,29.53,143,EVEN,Total Putts: 443,Total Rounds: 15
-Putts per Round - Round 3,29.56,134,EVEN,Total Putts: 266,Total Rounds: 9
-Putts per Round - Round 4,29.88,148,EVEN,Total Putts: 239,Total Rounds: 8
-One-Putt Percentage,33.92%,171,EVEN,# of 1 putts: 287,# of holes: 846
-Longest Putts,50' 7,101,EVEN,Year/Tourn#: Mexico Open,Round: 3
-3-Putt Avoidance,3.43%,141,EVEN,Total 3 Putts: 29,Total Holes (overall): 846
-Putting from - > 25',5.00%,99,EVEN,Attempts: 200,Putts made: 10
-Putting from - 20-25',14.04%,54,EVEN,Attempts: 57,Putts made: 8
-Putting from - 15-20',12.20%,161,EVEN,Attempts: 82,Putts made: 10
-Putting from - 10-15',30.00%,96,EVEN,Attempts: 90,Putts made: 27
-Putting - Inside 10',86.96%,133,EVEN,Attempts: 713,Putts made: 620
-Putting from 10',28.57%,158,EVEN,Attempts: 14,: 
-Putting from 9',35.71%,146,EVEN,Attempts: 28,: 
-Putting from 8',52.00%,97,EVEN,Attempts: 25,: 
-Putting from 7',74.36%,14,EVEN,Attempts: 39,: 
-Putting from 6',66.67%,120,EVEN,Attempts: 33,: 
-Putting from 5',72.00%,156,EVEN,Attempts: 50,: 
-Putting from 4-8',68.03%,98,EVEN,Attempts: 147,Putts made: 100
-Putting from 4',83.91%,170,EVEN,Attempts: 87,: 
-Putting from 3',99.08%,158,EVEN,Attempts: 437,: 
-Average Distance of Putts made,68' 10,132,EVEN,"Total Dist. (inches): 31,390",Total Rounds: 38
-Approach Putt Performance,2' 2,44,EVEN,: ,Attempts: 438
-Scoring Average (Adjusted),70.839,66,EVEN,"Total Strokes: 3,292",Total Adjustment: 37.447
-Scoring Average (Actual),70.04,41,EVEN,"Total Strokes: 3,292",Total Rounds: 47
-Lowest Round,64,70,EVEN,Tourn/Course: Mexico Open/Vid,Round: 2
-Birdie Average,3.43,157,EVEN,# of Birdies: 161,Total Rounds: 47
-Total Birdies,161,134,EVEN,: ,: 
-Eagles (Holes per),65.1,1,EVEN,# of Holes: 846,# of Eagles: 13
-Total Eagles,13,1,EVEN,: ,: 
-Par Breakers,20.57%,129,EVEN,# Birdies/Eagles: 174,# Holes: 846
-Bounce Back,21.82%,83,EVEN,: ,: 
-Par 3 Birdie or Better Leaders,12.12%,123,EVEN,Par 3 Birdies or Better: 24,Par 3 Holes: 198
-Par 4 Birdie or Better Leaders,15.71%,137,EVEN,Par 4 Birdies or Better: 77,Par 4 Holes: 490
-Par 5 Birdie or Better Leaders,46.20%,96,EVEN,Par 5 Birdies or Better: 73,Par 5 Holes: 158
-Birdie or Better Percentage,20.57%,129,EVEN,Total Birdies: 174,Total Holes: 846
-Bogey Avoidance,14.30%,31,EVEN,Bogeys: 121,Holes Played: 846
-Final Round Scoring Average,70.38,74,EVEN,Total Strokes: 563,Total Rounds: 8
-Final Round Performance,55.56%,82,EVEN,: ,: 
-Round 1 Scoring Average,70.47,96,EVEN,"Total Strokes: 1,057",Total Rounds: 15
-Round 2 Scoring Average,69.40,18,EVEN,"Total Strokes: 1,041",Total Rounds: 15
-Round 3 Scoring Average,70.11,66,EVEN,Total Strokes: 631,Total Rounds: 9
-Round 4 Scoring Average,70.38,74,EVEN,Total Strokes: 563,Total Rounds: 8
-Par 3 Scoring Average,3.07,94,EVEN,Total Strokes: 607,Total Holes: 198
-Par 4 Scoring Average,4.02,75,EVEN,"Total Strokes: 1,969",Total Holes: 490
-Par 5 Scoring Average,4.53,15,EVEN,Total Strokes: 716,Total Holes: 158
-Front 9 Scoring Average,35.06,77,EVEN,"Total Strokes: 1,648",Total Holes: 47
-Back 9 Scoring Average,34.98,28,EVEN,"Total Strokes: 1,644",Total Holes: 47
-Early Scoring Average,69.96,55,EVEN,"Total Strokes: 1,679",Total Early Rounds: 24
-Late Scoring Average,70.13,47,EVEN,"Total Strokes: 1,613",Total Late Rounds: 23
-Consecutive Cuts,-,-,EVEN,,
-Current Streak without a 3-Putt,4,372,EVEN,: ,: 
-Consecutive Fairways Hit,19,22,EVEN,Current Streak: 3,: 
-Consecutive GIR,20,42,EVEN,Current Streak: 0,Round: 2
-Consecutive Sand Saves,3,231,EVEN,Current Streak: 0,Round: 3
-Best YTD 1-Putt or Better Streak,6,141,EVEN,: ,: 
-Best YTD Streak w/o a 3-Putt,242,7,EVEN,Current Streak: 4,: 
-YTD Par or Better Streak,11,56,EVEN,: ,: 
-Consecutive Par 3 Birdies,2,75,EVEN,: ,: 
-Consecutive Holes Below Par,4,45,EVEN,: ,: 
-Consecutive Birdies Streak,4,40,EVEN,: ,: 
-Consecutive Birdies/Eagles streak,2,70,EVEN,: ,: 
-Official Money,"$570,892",136,EVEN,: ,YTD Victories: 
-Comcast Business TOUR TOP 10,221,128,EVEN,# of Wins: 0,# of Top 10's: 1
+Scrambling from > 30 yards,28.57%,100,EVEN,Successes: 14,Attempts: 49
+Scrambling from 20-30 yards,49.18%,126,EVEN,Successes: 30,Attempts: 61
+Scrambling from 10-20 yards,64.12%,105,EVEN,Successes: 84,Attempts: 131
+Scrambling from < 10 yards,83.33%,123,EVEN,Successes: 50,Attempts: 60
+Sand Save Percentage,46.43%,161,EVEN,# Saves: 39,# Bunkers: 84
+Proximity to Hole from Sand,11' 2,146,EVEN,Total Distance (feet): 701.500,# of Shots: 63
+Total Putting,289.7,162,EVEN,: ,: 
+Putting Average,1.803,163,EVEN,"GIR Putts: 1,500",Greens Hit: 832
+Overall Putting Average,1.667,161,EVEN,"# of Putts: 1,950","# of Holes: 1,170"
+Birdie or Better Conversion Percentage,28.07%,159,EVEN,# Birdies: 233,Greens Hit: 830
+Putts Per Round,30.00,161,EVEN,"Total Putts: 1,950",Total Rounds: 65
+Putts per Round - Round 1,30.30,160,EVEN,Total Putts: 606,Total Rounds: 20
+Putts per Round - Round 2,29.65,142,EVEN,Total Putts: 593,Total Rounds: 20
+Putts per Round - Round 3,29.92,144,EVEN,Total Putts: 389,Total Rounds: 13
+Putts per Round - Round 4,30.17,157,EVEN,Total Putts: 362,Total Rounds: 12
+One-Putt Percentage,34.53%,163,EVEN,# of 1 putts: 404,"# of holes: 1,170"
+Longest Putts,52' 11,111,EVEN,Year/Tourn#: 3M Open,Round: 2
+3-Putt Avoidance,3.93%,158,EVEN,Total 3 Putts: 46,"Total Holes (overall): 1,170"
+Putting from - > 25',4.55%,123,EVEN,Attempts: 286,Putts made: 13
+Putting from - 20-25',11.54%,96,EVEN,Attempts: 78,Putts made: 9
+Putting from - 15-20',17.24%,120,EVEN,Attempts: 116,Putts made: 20
+Putting from - 10-15',30.87%,89,EVEN,Attempts: 149,Putts made: 46
+Putting - Inside 10',86.13%,153,EVEN,"Attempts: 1,053",Putts made: 907
+Putting from 10',39.29%,105,EVEN,Attempts: 28,: 
+Putting from 9',45.95%,88,EVEN,Attempts: 37,: 
+Putting from 8',44.74%,142,EVEN,Attempts: 38,: 
+Putting from 7',69.23%,16,EVEN,Attempts: 52,: 
+Putting from 6',54.84%,164,EVEN,Attempts: 62,: 
+Putting from 5',71.62%,159,EVEN,Attempts: 74,: 
+Putting from 4-8',61.95%,160,EVEN,Attempts: 226,Putts made: 140
+Putting from 4',85.71%,160,EVEN,Attempts: 126,: 
+Putting from 3',99.21%,144,EVEN,Attempts: 636,: 
+Average Distance of Putts made,70' 2,120,EVEN,"Total Dist. (inches): 47,128",Total Rounds: 56
+Approach Putt Performance,2' 4,111,EVEN,: ,Attempts: 641
+Scoring Average (Adjusted),70.811,77,EVEN,"Total Strokes: 4,552",Total Adjustment: 50.716
+Scoring Average (Actual),70.03,59,EVEN,"Total Strokes: 4,552",Total Rounds: 65
+Lowest Round,64,90,EVEN,Tourn/Course: Mexico Open/Vid,Round: 2
+Birdie Average,3.63,126,EVEN,# of Birdies: 236,Total Rounds: 65
+Total Birdies,236,106,EVEN,: ,: 
+Eagles (Holes per),90.0,5,EVEN,"# of Holes: 1,170",# of Eagles: 13
+Total Eagles,13,5,EVEN,: ,: 
+Par Breakers,21.28%,107,EVEN,# Birdies/Eagles: 249,"# Holes: 1,170"
+Bounce Back,22.84%,63,EVEN,: ,: 
+Par 3 Birdie or Better Leaders,12.59%,117,EVEN,Par 3 Birdies or Better: 34,Par 3 Holes: 270
+Par 4 Birdie or Better Leaders,17.34%,89,EVEN,Par 4 Birdies or Better: 120,Par 4 Holes: 692
+Par 5 Birdie or Better Leaders,45.67%,99,EVEN,Par 5 Birdies or Better: 95,Par 5 Holes: 208
+Birdie or Better Percentage,21.28%,107,EVEN,Total Birdies: 249,"Total Holes: 1,170"
+Bogey Avoidance,15.04%,52,EVEN,Bogeys: 176,"Holes Played: 1,170"
+Final Round Scoring Average,70.50,95,EVEN,Total Strokes: 846,Total Rounds: 12
+Final Round Performance,46.15%,117,EVEN,: ,: 
+Round 1 Scoring Average,70.00,71,EVEN,"Total Strokes: 1,400",Total Rounds: 20
+Round 2 Scoring Average,69.60,36,EVEN,"Total Strokes: 1,392",Total Rounds: 20
+Round 3 Scoring Average,70.31,84,EVEN,Total Strokes: 914,Total Rounds: 13
+Round 4 Scoring Average,70.50,95,EVEN,Total Strokes: 846,Total Rounds: 12
+Par 3 Scoring Average,3.09,127,EVEN,Total Strokes: 834,Total Holes: 270
+Par 4 Scoring Average,4.00,43,EVEN,"Total Strokes: 2,771",Total Holes: 692
+Par 5 Scoring Average,4.55,28,EVEN,Total Strokes: 947,Total Holes: 208
+Front 9 Scoring Average,34.97,81,EVEN,"Total Strokes: 2,273",Total Holes: 65
+Back 9 Scoring Average,35.06,47,EVEN,"Total Strokes: 2,279",Total Holes: 65
+Early Scoring Average,70.06,87,EVEN,"Total Strokes: 2,452",Total Early Rounds: 35
+Late Scoring Average,70.00,43,EVEN,"Total Strokes: 2,100",Total Late Rounds: 30
+Consecutive Cuts,3,71,EVEN,: ,: 
+Current Streak without a 3-Putt,37,100,EVEN,: ,: 
+Consecutive Fairways Hit,19,23,EVEN,Current Streak: 2,: 
+Consecutive GIR,20,53,EVEN,Current Streak: 5,Round: 2
+Consecutive Sand Saves,3,254,EVEN,Current Streak: 0,Round: 3
+Best YTD 1-Putt or Better Streak,7,105,EVEN,: ,: 
+Best YTD Streak w/o a 3-Putt,242,12,EVEN,Current Streak: 37,: 
+YTD Par or Better Streak,11,65,EVEN,: ,: 
+Consecutive Par 3 Birdies,2,97,EVEN,: ,: 
+Consecutive Holes Below Par,4,51,EVEN,: ,: 
+Consecutive Birdies Streak,4,46,EVEN,: ,: 
+Consecutive Birdies/Eagles streak,2,88,EVEN,: ,: 
+Official Money,"$670,965",145,EVEN,: ,YTD Victories: 
+FedExCup Fall Points,269,135,EVEN,: ,: 
+Comcast Business TOUR TOP 10,246,140,EVEN,# of Wins: 0,# of Top 10's: 1
